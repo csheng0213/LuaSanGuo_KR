@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/TaskUI/namebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{357,152},{186,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,34}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_box1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,152},{87,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,77}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_box2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,152},{87,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,76}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_box3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,152},{87,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,78}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_box4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{268,152},{87,76}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,76}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,30},{836,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{836,18}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/task_tiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{845,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{845,27}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/tdfb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{848,1},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/ttjjc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/wjsj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{103,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/xzly.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{205,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/yxsl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{307,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/zcrw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{409,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/zmsj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{511,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/czrw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/jygq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,50},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/qxt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{817,103},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>tyj/ui_res/TaskUI/sbqh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{919,103},{100,100}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TaskUI.png</string>
+			<key>realTextureFileName</key>
+			<string>TaskUI.png</string>
+			<key>size</key>
+			<string>{1020,231}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1020</integer>
+			<key>height</key>
+			<integer>231</integer>
+		</dict>
+	</dict>
+</plist>

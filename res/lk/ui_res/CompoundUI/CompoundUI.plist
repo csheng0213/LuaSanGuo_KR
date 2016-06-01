@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>lk/ui_res/CompoundUI/Compound_frame.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{392,0},{282,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{282,122}</string>
+			</dict>
+			<key>lk/ui_res/CompoundUI/Compound_green.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{839,0},{120,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,20}</string>
+			</dict>
+			<key>lk/ui_res/CompoundUI/Compound_head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{674,0},{100,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{100,101}</string>
+			</dict>
+			<key>lk/ui_res/CompoundUI/Compound_jiaob.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{775,0},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,64}</string>
+			</dict>
+			<key>lk/ui_res/CompoundUI/Compound_purple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{959,0},{120,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,20}</string>
+			</dict>
+			<key>lk/ui_res/CompoundUI/Compound_tiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{392,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{392,92}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CompoundUI.png</string>
+			<key>realTextureFileName</key>
+			<string>CompoundUI.png</string>
+			<key>size</key>
+			<string>{979,122}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>979</integer>
+			<key>height</key>
+			<integer>122</integer>
+		</dict>
+	</dict>
+</plist>

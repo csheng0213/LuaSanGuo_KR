@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cs/ui_res/FbSelectUI/guildprize_text.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1703,1},{315,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,21}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/guildprize_titlebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{835,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{835,52}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/jindu1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1811,60},{102,10}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,15}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/jindudi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1703,60},{106,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,15}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/lock.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1577,1},{124,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,124}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/pve_tiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,78},{880,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{880,28}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/pve_tiao1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{838,1},{572,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{572,67}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/pve_tiao2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,108},{925,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{925,14}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/pve_tiao3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,55},{546,21}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{546,28}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/pve_tou.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1917,24},{44,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,44}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/start_tuitu1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1815,24},{100,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,34}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/tit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1703,24},{110,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,34}</string>
+			</dict>
+			<key>cs/ui_res/FbSelectUI/cl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1412,1},{163,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{163,120}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>FbSelectUI.png</string>
+			<key>realTextureFileName</key>
+			<string>FbSelectUI.png</string>
+			<key>size</key>
+			<string>{2019,126}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2019</integer>
+			<key>height</key>
+			<integer>126</integer>
+		</dict>
+	</dict>
+</plist>

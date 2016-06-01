@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/cs/GameSetPopUI/genghuantouxiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{517,1},{136,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,31}</string>
+			</dict>
+			<key>commonUI/res/cs/GameSetPopUI/queding.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{874,1},{53,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,31}</string>
+			</dict>
+			<key>commonUI/res/cs/GameSetPopUI/zhuxiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{765,1},{107,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,31}</string>
+			</dict>
+			<key>commonUI/res/cs/GameSetPopUI/qhfwq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,1},{108,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,31}</string>
+			</dict>
+			<key>commonUI/res/cs/GameSetPopUI/shezhi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{514,459}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{514,459}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>GameSetPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>GameSetPopUI.png</string>
+			<key>size</key>
+			<string>{928,461}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>928</integer>
+			<key>height</key>
+			<integer>461</integer>
+		</dict>
+	</dict>
+</plist>

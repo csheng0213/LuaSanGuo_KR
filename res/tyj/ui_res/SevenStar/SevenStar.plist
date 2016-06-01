@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/SevenStar/card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,506},{200,300}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{200,300}</string>
+			</dict>
+			<key>tyj/ui_res/SevenStar/seven_starts_attack.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{883,1},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>tyj/ui_res/SevenStar/seven_starts_life.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{883,103},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>tyj/ui_res/SevenStar/seven_starts_mp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{883,205},{100,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{100,100}</string>
+			</dict>
+			<key>tyj/ui_res/SevenStar/sevenstars_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{880,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{880,503}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SevenStar.png</string>
+			<key>realTextureFileName</key>
+			<string>SevenStar.png</string>
+			<key>size</key>
+			<string>{984,807}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>984</integer>
+			<key>height</key>
+			<integer>807</integer>
+		</dict>
+	</dict>
+</plist>

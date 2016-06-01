@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/SignRewardPopUI/flag.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,358},{177,349}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,349}</string>
+			</dict>
+			<key>tyj/ui_res/SignRewardPopUI/loging_done.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,804},{87,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,88}</string>
+			</dict>
+			<key>tyj/ui_res/SignRewardPopUI/loging_mask1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,358},{177,349}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{177,349}</string>
+			</dict>
+			<key>tyj/ui_res/SignRewardPopUI/longin_thickness.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{183,355}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{183,355}</string>
+			</dict>
+			<key>tyj/ui_res/SignRewardPopUI/property_gold.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,894},{92,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,110}</string>
+			</dict>
+			<key>tyj/ui_res/SignRewardPopUI/property_money.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,709},{91,93}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,110}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SignRewardPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>SignRewardPopUI.png</string>
+			<key>size</key>
+			<string>{358,973}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>358</integer>
+			<key>height</key>
+			<integer>973</integer>
+		</dict>
+	</dict>
+</plist>

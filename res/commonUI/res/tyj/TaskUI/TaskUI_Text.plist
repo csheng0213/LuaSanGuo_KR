@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/TaskUI/dian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,207},{18,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,21}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/dqhyd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{45,88},{117,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{117,22}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/kelqu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{69,88},{137,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{137,18}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/qianw.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{89,88},{54,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/rwu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,88},{149,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{149,42}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/sdscj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{134,1},{105,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,105}</string>
+			</dict>
+			<key>commonUI/res/tyj/TaskUI/yiwanc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{131,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{131,85}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TaskUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>TaskUI_Text.png</string>
+			<key>size</key>
+			<string>{240,238}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>240</integer>
+			<key>height</key>
+			<integer>238</integer>
+		</dict>
+	</dict>
+</plist>

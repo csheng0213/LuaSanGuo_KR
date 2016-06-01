@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/EnlistUI/jinbigoumai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{347,538}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{347,538}</string>
+			</dict>
+			<key>commonUI/res/lk/EnlistUI/yuanbaogoumai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{350,1},{347,538}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{347,538}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EnlistUI_Text_Bg.png</string>
+			<key>realTextureFileName</key>
+			<string>EnlistUI_Text_Bg.png</string>
+			<key>size</key>
+			<string>{698,540}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>698</integer>
+			<key>height</key>
+			<integer>540</integer>
+		</dict>
+	</dict>
+</plist>

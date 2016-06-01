@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/PartHeroUI/pianjiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,495},{77,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,46}</string>
+			</dict>
+			<key>commonUI/res/tyj/PartHeroUI/pjjc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,539},{89,23}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{91,27}</string>
+			</dict>
+			<key>commonUI/res/tyj/PartHeroUI/szwjyfxg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{343,492}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{343,492}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PartHeroUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>PartHeroUI_Text.png</string>
+			<key>size</key>
+			<string>{345,563}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>345</integer>
+			<key>height</key>
+			<integer>563</integer>
+		</dict>
+	</dict>
+</plist>

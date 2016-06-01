@@ -1,0 +1,12 @@
+顺序	任务描述	资源路径	奖励点数	完成次数	文字	跳转类型	空行															
+1	출정: 임의 일반 던전 10회 통과	tyj/ui_res/TaskUI/czrw.png	15	10	임무점수 15점	4																
+2	무장모집: 임의무장 1명 모집	tyj/ui_res/TaskUI/zmsj.png	15	1	임무점수 15점	10																
+3	무장강화: 임의 무장 1회 강화	tyj/ui_res/TaskUI/wjsj.png	10	1	임무점수 10점	2																
+4	병사강화: 임의 병사 1회 강화	tyj/ui_res/TaskUI/sbqh.png	5	1	임무점수 5점	3																
+5	정예던전: 임의 정예 던전 5회 통과	tyj/ui_res/TaskUI/jygq.png	15	5	임무점수 15점	7																
+6	천계: 천계 3회 도전	tyj/ui_res/TaskUI/ttjjc.png	15	3	임무점수 15점	5																
+7	주성: 임의 주성 임무 1회 완료	tyj/ui_res/TaskUI/zcrw.png	10	1	임무점수 10점	1																
+8	칠성단: 1회 각성	tyj/ui_res/TaskUI/qxt.png	15	1	임무점수 15점	9																
+9	길드던전: 길드던전 1회 도전	tyj/ui_res/TaskUI/tdfb.png	20	1	임무점수 20점	8																
+10	무장훈련: 무장훈련 1회 도전	tyj/ui_res/TaskUI/yxsl.png	10	1	임무점수 10점	11																
+11	혈전: 혈전 1회 도전	tyj/ui_res/TaskUI/xzly.png	10	1	임무점수 10점	6																

@@ -1,0 +1,7 @@
+ID	名称	显示名称	阵型资源	图片资源	效果类型	效果值	描述	空行														
+1	changshezhen	장사진	ArmyFormation/changshezhen.tmx	changshezhen.png	1	0.15	전군 생명 15% 증가															
+2	gouxingzhen	갈고리진	ArmyFormation/gouxingzhen.tmx	gouxingzhen.png	2	0.15	전군 공격 15% 증가															
+3	heyizhen	학익진	ArmyFormation/heyizhen.tmx	heyizhen.png	5	0.15	전군 이동속도 15% 증가															
+4	yanxingzhen	기러기진	ArmyFormation/yanxingzhen.tmx	yanxingzhen.png	3	0.15	전군 마법 15% 증가															
+5	yuanxingzhen	원형진	ArmyFormation/yuanxingzhen.tmx	yuanxingzhen.png	4	0.15	전군 방어 15% 증가															
+6	zhuixingzhen	원뿔진	ArmyFormation/zhuixingzhen.tmx	zhuixingzhen.png	6	0.06	전군 모든 속성 6% 증가															

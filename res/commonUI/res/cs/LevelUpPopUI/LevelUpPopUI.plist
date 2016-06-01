@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/cs/LevelUpPopUI/dengji.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,1},{47,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{47,26}</string>
+			</dict>
+			<key>commonUI/res/cs/LevelUpPopUI/shengjijiangli.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{123,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LevelUpPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>LevelUpPopUI.png</string>
+			<key>size</key>
+			<string>{174,28}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>174</integer>
+			<key>height</key>
+			<integer>28</integer>
+		</dict>
+	</dict>
+</plist>

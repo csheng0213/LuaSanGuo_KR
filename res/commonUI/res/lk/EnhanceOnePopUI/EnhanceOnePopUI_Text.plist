@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/huodejingyan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,24},{108,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,24}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/tianjiawujiangka.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{179,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,34}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/wujiangzidongtianjia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,0},{208,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{208,24}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/xiaohaotongqian.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{287,24},{86,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,24}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/xiayijishengjijingyan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,34},{56,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,21}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceOnePopUI/zidongtianjia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{387,0},{108,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,31}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EnhanceOnePopUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>EnhanceOnePopUI_Text.png</string>
+			<key>size</key>
+			<string>{512,64}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>64</integer>
+		</dict>
+	</dict>
+</plist>

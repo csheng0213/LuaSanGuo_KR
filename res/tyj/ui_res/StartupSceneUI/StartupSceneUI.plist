@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/StartupSceneUI/bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,375},{427,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{427,78}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/DS.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,52},{146,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{146,83}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/qued.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,95},{52,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,34}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/RF.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,135},{179,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,67}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/tts.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,0},{302,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{302,52}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/xieyi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{473,52},{73,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{73,43}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/yonghuxieyi1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{327,375}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{327,375}</string>
+			</dict>
+			<key>tyj/ui_res/StartupSceneUI/glog.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,202},{87,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{87,102}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>StartupSceneUI.png</string>
+			<key>realTextureFileName</key>
+			<string>StartupSceneUI.png</string>
+			<key>size</key>
+			<string>{629,453}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>629</integer>
+			<key>height</key>
+			<integer>453</integer>
+		</dict>
+	</dict>
+</plist>

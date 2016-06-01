@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/EnhanceTwoPopUI/nindewujiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{327,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{327,21}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceTwoPopUI/wujiangdengjidadao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{327,0},{278,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{278,21}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceTwoPopUI/xiaohaowuhun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{734,0},{86,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{86,24}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceTwoPopUI/jyzy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{605,0},{129,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{129,31}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EnhanceTwoPopUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>EnhanceTwoPopUI_Text.png</string>
+			<key>size</key>
+			<string>{820,31}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>820</integer>
+			<key>height</key>
+			<integer>31</integer>
+		</dict>
+	</dict>
+</plist>

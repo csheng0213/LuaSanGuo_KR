@@ -1,0 +1,8 @@
+序号,动画名称,动画资源路径,精灵帧路径,空行
+1,czbx_plist,cs/animaRes/uiAnimas/czbx.plist,cs/animaRes/uiAnimas/czbx_Res.plist,
+2,drumWave_plist,cs/animaRes/uiAnimas/drumWave.plist,cs/animaRes/uiAnimas/drumWave_Res.plist,
+3,lantern_plist,cs/animaRes/uiAnimas/lantern.plist,cs/animaRes/uiAnimas/lantern_Res.plist,
+4,loading_plist,cs/animaRes/uiAnimas/loading.plist,cs/animaRes/uiAnimas/loading_Res.plist,
+5,mainUIFire_plist,cs/animaRes/uiAnimas/mainUIFire.plist,cs/animaRes/uiAnimas/mainUIFire_Res.plist,
+6,sevenStar_plist,cs/animaRes/uiAnimas/sevenStar.plist,cs/animaRes/uiAnimas/sevenStar_Res.plist,
+7,stars_plist,cs/animaRes/uiAnimas/stars.plist,cs/animaRes/uiAnimas/stars_Res.plist,

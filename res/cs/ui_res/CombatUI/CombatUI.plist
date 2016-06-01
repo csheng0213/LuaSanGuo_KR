@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cs/ui_res/CombatUI/combat_palyup.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{849,37},{76,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,73}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_puasedown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{927,37},{76,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,73}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_speeddown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,1},{134,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,73}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_speedup.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{628,1},{134,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{134,73}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_time.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{338,1},{152,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{152,77}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_xiaohp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,128},{104,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,6}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_xiaohpbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,114},{108,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{108,12}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/fbinfo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{335,85}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{335,85}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/headdi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{764,37},{83,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{83,83}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/headout.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1042,1},{95,95}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{95,95}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/hp.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{492,76},{267,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{267,24}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/hpdi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{484,102},{267,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{267,24}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/hpout.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{764,1},{276,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{276,34}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/level.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{442,116},{40,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,40}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/namebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{338,80},{144,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{144,34}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/shadow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{270,88},{56,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,32}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/skillbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{328,116},{112,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,31}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_arrow.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,114},{72,16}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{80,20}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/combat_xiaohpred.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{185,121},{104,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,6}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/hp_red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,88},{267,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{267,24}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CombatUI.png</string>
+			<key>realTextureFileName</key>
+			<string>CombatUI.png</string>
+			<key>size</key>
+			<string>{1138,157}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1138</integer>
+			<key>height</key>
+			<integer>157</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="9" tilewidth="67" tileheight="67">
+ <objectgroup name="formation" width="10" height="9">
+  <object name="2" type="soldier" x="0" y="134" width="67" height="67"/>
+  <object name="2" type="soldier" x="67" y="335" width="67" height="67"/>
+  <object name="2" type="soldier" x="67" y="201" width="67" height="67"/>
+  <object name="2" type="soldier" x="0" y="268" width="67" height="67"/>
+  <object name="2" type="soldier" x="0" y="201" width="67" height="67"/>
+  <object name="2" type="soldier" x="0" y="402" width="67" height="67"/>
+  <object name="2" type="soldier" x="0" y="335" width="67" height="67"/>
+  <object name="2" type="soldier" x="134" y="268" width="67" height="67"/>
+  <object name="2" type="soldier" x="67" y="268" width="67" height="67"/>
+ </objectgroup>
+</map>

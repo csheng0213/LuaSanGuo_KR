@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+EmbattleView:onInitUI	EmbattleView.lua	/^function EmbattleView:onInitUI()$/;"	f
+EmbattleViewController:addHeroOfInf	EmbattleViewController.lua	/^function EmbattleViewController:addHeroOfInf(heroInf,heroType)$/;"	f
+EmbattleViewController:cleanZxMap	EmbattleViewController.lua	/^function EmbattleViewController:cleanZxMap(type)$/;"	f
+EmbattleViewController:getHeroPositon	EmbattleViewController.lua	/^function EmbattleViewController:getHeroPositon(heroInf)$/;"	f
+EmbattleViewController:getMapElement	EmbattleViewController.lua	/^function EmbattleViewController:getMapElement(x,y)$/;"	f
+EmbattleViewController:getSoldierTablePos	EmbattleViewController.lua	/^function EmbattleViewController:getSoldierTablePos(soldierTable,x,y)$/;"	f
+EmbattleViewController:getZxCoord	EmbattleViewController.lua	/^function EmbattleViewController:getZxCoord(prame)$/;"	f
+EmbattleViewController:initDisplay	EmbattleViewController.lua	/^function EmbattleViewController:initDisplay()$/;"	f
+EmbattleViewController:initZX	EmbattleViewController.lua	/^function EmbattleViewController:initZX(embattleInf)$/;"	f
+EmbattleViewController:initZxMode	EmbattleViewController.lua	/^function EmbattleViewController:initZxMode(mode)$/;"	f
+EmbattleViewController:loadHeroHead	EmbattleViewController.lua	/^function EmbattleViewController:loadHeroHead(target,data)$/;"	f
+EmbattleViewController:loadSoldierHead	EmbattleViewController.lua	/^function EmbattleViewController:loadSoldierHead(data)$/;"	f
+EmbattleViewController:onAttactbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onAttactbtClick()$/;"	f
+EmbattleViewController:onBackbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onBackbtClick()$/;"	f
+EmbattleViewController:onChejunbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onChejunbtClick()$/;"	f
+EmbattleViewController:onCreate	EmbattleViewController.lua	/^function EmbattleViewController:onCreate()$/;"	f
+EmbattleViewController:onDefentbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onDefentbtClick()$/;"	f
+EmbattleViewController:onDidLoadView	EmbattleViewController.lua	/^function EmbattleViewController:onDidLoadView()$/;"	f
+EmbattleViewController:onDisplayView	EmbattleViewController.lua	/^function EmbattleViewController:onDisplayView()$/;"	f
+EmbattleViewController:onHelpbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onHelpbtClick()$/;"	f
+EmbattleViewController:onInfbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onInfbtClick()$/;"	f
+EmbattleViewController:onMainheroClick	EmbattleViewController.lua	/^function EmbattleViewController:onMainheroClick()$/;"	f
+EmbattleViewController:onOnkeybtClick	EmbattleViewController.lua	/^function EmbattleViewController:onOnkeybtClick()$/;"	f
+EmbattleViewController:onPianjiangbtClick	EmbattleViewController.lua	/^function EmbattleViewController:onPianjiangbtClick()$/;"	f
+EmbattleViewController:onReceiveChildCtlData	EmbattleViewController.lua	/^ function EmbattleViewController:onReceiveChildCtlData(jump)$/;"	f
+EmbattleViewController:onSavebtClick	EmbattleViewController.lua	/^function EmbattleViewController:onSavebtClick()$/;"	f
+EmbattleViewController:onSoldier1Click	EmbattleViewController.lua	/^function EmbattleViewController:onSoldier1Click()$/;"	f
+EmbattleViewController:onSoldier2Click	EmbattleViewController.lua	/^function EmbattleViewController:onSoldier2Click()$/;"	f
+EmbattleViewController:onSoldier3Click	EmbattleViewController.lua	/^function EmbattleViewController:onSoldier3Click()$/;"	f
+EmbattleViewController:onVicehero1Click	EmbattleViewController.lua	/^function EmbattleViewController:onVicehero1Click()$/;"	f
+EmbattleViewController:onVicehero2Click	EmbattleViewController.lua	/^function EmbattleViewController:onVicehero2Click()$/;"	f
+EmbattleViewController:saveEmbattleInf	EmbattleViewController.lua	/^ function EmbattleViewController:saveEmbattleInf()$/;"	f
+EmbattleViewController:selectSoldier	EmbattleViewController.lua	/^function EmbattleViewController:selectSoldier(soldierType)$/;"	f
+EmbattleViewController:setFastZxMap	EmbattleViewController.lua	/^function EmbattleViewController:setFastZxMap(zxData)$/;"	f
+EmbattleViewController:setZxMap	EmbattleViewController.lua	/^function EmbattleViewController:setZxMap(zxData)$/;"	f
+EmbattleViewController:setZxMapOfHeroId	EmbattleViewController.lua	/^function EmbattleViewController:setZxMapOfHeroId(id,fast)$/;"	f
+EmbattleViewController:showInfAction	EmbattleViewController.lua	/^function EmbattleViewController:showInfAction()$/;"	f
+EmbattleViewController:updateEmbattle	EmbattleViewController.lua	/^function EmbattleViewController:updateEmbattle()$/;"	f
+EmbattleViewController:updateSoldierHeadRes	EmbattleViewController.lua	/^function EmbattleViewController:updateSoldierHeadRes(data)$/;"	f
+local attctBoxListener 	EmbattleViewController.lua	/^    local attctBoxListener = function(event)$/;"	f
+local defentBoxListener 	EmbattleViewController.lua	/^    local defentBoxListener = function(event)$/;"	f
+local initDisplay 	EmbattleViewController.lua	/^    local initDisplay = function()$/;"	f
+local touchClick 	EmbattleViewController.lua	/^            local touchClick = function(event)$/;"	f
+local touchClick 	EmbattleViewController.lua	/^        local touchClick = function(event)$/;"	f

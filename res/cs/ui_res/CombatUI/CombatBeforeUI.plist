@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cs/ui_res/CombatUI/before_ban.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,352},{758,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{758,78}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/before_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{322,352}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{322,352}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/before_war.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{322,0},{160,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,236}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/changshezhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{322,236},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/gouxingzhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{482,0},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/heyizhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{482,107},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/wanggezhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{567,214},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/yanxingzhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,0},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/yuanxingzhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,107},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+			<key>cs/ui_res/CombatUI/zhuixingzhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{758,321},{245,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{245,107}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>CombatBeforeUI.png</string>
+			<key>realTextureFileName</key>
+			<string>CombatBeforeUI.png</string>
+			<key>size</key>
+			<string>{1003,430}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1003</integer>
+			<key>height</key>
+			<integer>430</integer>
+		</dict>
+	</dict>
+</plist>

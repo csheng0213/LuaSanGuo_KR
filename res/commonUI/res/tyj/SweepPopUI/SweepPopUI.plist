@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/SweepPopUI/sd.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{265,1},{96,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/SweepPopUI/sdang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{363,1},{64,35}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,39}</string>
+			</dict>
+			<key>commonUI/res/tyj/SweepPopUI/sdnci.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{149,1},{114,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/SweepPopUI/yysdl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{146,80}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,85}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SweepPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>SweepPopUI.png</string>
+			<key>size</key>
+			<string>{428,82}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>428</integer>
+			<key>height</key>
+			<integer>82</integer>
+		</dict>
+	</dict>
+</plist>

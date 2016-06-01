@@ -1,0 +1,12 @@
+ID	效果描述	路径	空行																			
+1	+공	cs/loadRes/buffName/jiagong.png																				
+2	-공	cs/loadRes/buffName/jianggong.png																				
+3	결빙	cs/loadRes/buffName/dongjie.png																				
+4	-마	cs/loadRes/buffName/jiangmou.png																				
+5	-방	cs/loadRes/buffName/jianfang.png																				
+6	-공	cs/loadRes/buffName/jianggong.png																				
+7	+방	cs/loadRes/buffName/jiafang.png																				
+8	+방	cs/loadRes/buffName/jiafang.png																				
+9	-마	cs/loadRes/buffName/jiangmou.png																				
+10	-방	cs/loadRes/buffName/jianfang.png																				
+11	+마	cs/loadRes/buffName/jiamou.png																				

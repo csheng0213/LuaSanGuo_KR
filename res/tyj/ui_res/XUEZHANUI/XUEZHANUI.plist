@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/XUEZHANUI/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,154},{170,191}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{170,191}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{849,1},{172,195}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,195}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,154},{206,236}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{206,236}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/infor.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{846,151}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{846,151}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_gray.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,392},{212,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{212,55}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_guanka.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{381,154},{60,258}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,258}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_heart.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{209,347},{31,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,26}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_heart1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{242,347},{25,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,18}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_line.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,414},{808,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{808,2}</string>
+			</dict>
+			<key>tyj/ui_res/XUEZHANUI/xuezhan_red.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{443,154},{211,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{211,55}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>XUEZHANUI.png</string>
+			<key>realTextureFileName</key>
+			<string>XUEZHANUI.png</string>
+			<key>size</key>
+			<string>{1024,448}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>448</integer>
+		</dict>
+	</dict>
+</plist>

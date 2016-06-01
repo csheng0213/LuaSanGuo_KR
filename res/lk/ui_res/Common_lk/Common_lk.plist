@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>lk/ui_res/Common_lk/bq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{390,90}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{390,90}</string>
+			</dict>
+			<key>lk/ui_res/Common_lk/Compound_house.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,0},{70,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,67}</string>
+			</dict>
+			<key>lk/ui_res/Common_lk/qiz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{460,0},{66,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{66,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Common_lk.png</string>
+			<key>realTextureFileName</key>
+			<string>Common_lk.png</string>
+			<key>size</key>
+			<string>{526,90}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>526</integer>
+			<key>height</key>
+			<integer>90</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/cgbai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{760,0},{246,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{246,22}</string>
+			</dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/dqzg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{760,22},{72,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{72,18}</string>
+			</dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/em.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{557,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{557,138}</string>
+			</dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/lfsj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{557,0},{203,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{203,77}</string>
+			</dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/wz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,138},{557,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{557,138}</string>
+			</dict>
+			<key>commonUI/res/tyj/HeroShiLianUI/yz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,276},{557,138}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{557,138}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HeroShiLianUI.png</string>
+			<key>realTextureFileName</key>
+			<string>HeroShiLianUI.png</string>
+			<key>size</key>
+			<string>{1006,414}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1006</integer>
+			<key>height</key>
+			<integer>414</integer>
+		</dict>
+	</dict>
+</plist>

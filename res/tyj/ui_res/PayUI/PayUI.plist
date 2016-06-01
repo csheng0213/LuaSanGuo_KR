@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/PayUI/pay_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{366,125},{51,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,42}</string>
+			</dict>
+			<key>tyj/ui_res/PayUI/pay_text.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,125},{315,21}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{315,21}</string>
+			</dict>
+			<key>tyj/ui_res/PayUI/pay_tiao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{407,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{407,122}</string>
+			</dict>
+			<key>tyj/ui_res/PayUI/pay_titlebg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{410,1},{835,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{835,52}</string>
+			</dict>
+			<key>tyj/ui_res/PayUI/bg111.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,125},{817,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{817,46}</string>
+			</dict>
+			<key>tyj/ui_res/PayUI/libao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,148},{57,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{57,55}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PayUI.png</string>
+			<key>realTextureFileName</key>
+			<string>PayUI.png</string>
+			<key>size</key>
+			<string>{463,943}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>463</integer>
+			<key>height</key>
+			<integer>943</integer>
+		</dict>
+	</dict>
+</plist>

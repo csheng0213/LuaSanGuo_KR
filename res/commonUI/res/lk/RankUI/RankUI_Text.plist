@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/RankUI/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1946,1},{41,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{41,54}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1747,1},{48,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,53}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1899,1},{45,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{45,53}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/gonghui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,39},{808,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{808,36}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/gonghuipaihangbang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{814,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{814,36}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/gonghuipaiming.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1849,1},{23,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,102}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/gonghuipaiming_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1874,1},{23,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,102}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/paihangbang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1633,1},{112,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,43}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/wanjia.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{811,39},{808,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{808,36}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/wanjiapaihangbang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{817,1},{814,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{814,36}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/wanjiapaiming.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1797,1},{24,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,101}</string>
+			</dict>
+			<key>commonUI/res/lk/RankUI/wanjiapaiming_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1823,1},{24,101}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,101}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RankUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>RankUI_Text.png</string>
+			<key>size</key>
+			<string>{1988,104}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1988</integer>
+			<key>height</key>
+			<integer>104</integer>
+		</dict>
+	</dict>
+</plist>

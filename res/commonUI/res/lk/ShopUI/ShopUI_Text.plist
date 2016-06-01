@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/ShopUI/shouqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{282,246}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{282,246}</string>
+			</dict>
+			<key>commonUI/res/lk/ShopUI/shuaxin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{282,0},{53,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,31}</string>
+			</dict>
+			<key>commonUI/res/lk/ShopUI/wupinshuliang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{335,0},{36,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{36,19}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>ShopUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>ShopUI_Text.png</string>
+			<key>size</key>
+			<string>{371,246}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>371</integer>
+			<key>height</key>
+			<integer>246</integer>
+		</dict>
+	</dict>
+</plist>

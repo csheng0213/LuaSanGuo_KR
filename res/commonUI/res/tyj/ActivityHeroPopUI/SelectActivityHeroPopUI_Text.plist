@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/qunxiong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/qunxiong_h.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,470},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/shu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,0},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/shu_h.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,0},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/teshu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,0},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/teshu_h.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,179},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/wei.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,358},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/wei_h.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{649,470},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/wu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{828,470},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+			<key>commonUI/res/tyj/ActivityHeroPopUI/wu_h.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,537},{179,470}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{179,470}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SelectActivityHeroPopUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>SelectActivityHeroPopUI_Text.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

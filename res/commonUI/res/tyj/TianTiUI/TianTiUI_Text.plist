@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/TianTiUI/bai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,156},{28,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{28,32}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/dqzl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{188,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{188,120}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/gongf.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{323,1},{64,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{69,70}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/jfsc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,1},{130,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/jiangljf.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,90},{92,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{92,18}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/jrbfzx.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,90},{111,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{111,22}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/minjb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,58},{91,30}}</string>
+				<key>offset</key>
+				<string>{-2,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{94,35}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/minjb_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{284,58},{91,30}}</string>
+				<key>offset</key>
+				<string>{-2,-2}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{94,35}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/paim.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,145},{52,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{52,35}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/paim_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,123},{52,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{52,35}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/paiming.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{165,123},{34,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,19}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/sheng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{55,155},{31,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,35}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/sytzcs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,34},{123,22}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,22}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/tiaozhan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{235,90},{53,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/zhanbao.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{55,123},{53,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,34}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/zhanbao_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{110,123},{53,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,34}</string>
+			</dict>
+			<key>commonUI/res/tyj/TianTiUI/zhanl.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,184},{53,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{53,18}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TianTiUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>TianTiUI_Text.png</string>
+			<key>size</key>
+			<string>{388,238}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>388</integer>
+			<key>height</key>
+			<integer>238</integer>
+		</dict>
+	</dict>
+</plist>

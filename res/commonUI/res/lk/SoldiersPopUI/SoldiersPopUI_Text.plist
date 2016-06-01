@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/SoldiersPopUI/bu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{230,41},{23,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,19}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/bu_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{457,0},{23,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{23,19}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/gong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{136,41},{24,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/gong_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{160,41},{24,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,24}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/jinjiechenggong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{270,0},{187,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{187,46}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/qi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{184,41},{20,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{20,23}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/qi_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{207,41},{20,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{20,23}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/soldier_dengjiUP.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,41},{136,48}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{136,48}</string>
+			</dict>
+			<key>commonUI/res/lk/SoldiersPopUI/zuida.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{270,41}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{270,41}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SoldiersPopUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>SoldiersPopUI_Text.png</string>
+			<key>size</key>
+			<string>{480,89}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>480</integer>
+			<key>height</key>
+			<integer>89</integer>
+		</dict>
+	</dict>
+</plist>

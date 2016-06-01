@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/EquipEhancePopUI/bg_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,548},{633,430}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{633,430}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/equipEhBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{714,545}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{714,545}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/jiantou_you.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,841},{53,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,62}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/jiantou_zuo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,905},{53,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,62}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/wenhao_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,980},{13,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{13,17}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/diwen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{717,1},{239,239}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{239,239}</string>
+			</dict>
+			<key>tyj/ui_res/EquipEhancePopUI/gezi_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{636,548},{291,291}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{291,291}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EquipEhancePopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>EquipEhancePopUI.png</string>
+			<key>size</key>
+			<string>{957,998}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>957</integer>
+			<key>height</key>
+			<integer>998</integer>
+		</dict>
+	</dict>
+</plist>

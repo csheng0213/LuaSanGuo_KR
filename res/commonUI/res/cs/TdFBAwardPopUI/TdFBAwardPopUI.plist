@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/benzhangkenengdiaoluo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,1},{148,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{148,23}</string>
+			</dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/querenshenqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{285,26},{97,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{97,26}</string>
+			</dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/weishenqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{140,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,68}</string>
+			</dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/xiangqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{384,26},{54,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,31}</string>
+			</dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/yishenqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{143,1},{140,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,68}</string>
+			</dict>
+			<key>commonUI/res/cs/TdFBAwardPopUI/zhanlipinshenqing.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{435,1},{122,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{122,26}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TdFBAwardPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>TdFBAwardPopUI.png</string>
+			<key>size</key>
+			<string>{558,81}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>558</integer>
+			<key>height</key>
+			<integer>81</integer>
+		</dict>
+	</dict>
+</plist>

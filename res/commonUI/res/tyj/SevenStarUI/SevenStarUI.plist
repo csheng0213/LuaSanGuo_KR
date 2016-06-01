@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/SevenStarUI/fying.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,974},{34,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{34,18}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/mjxt.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,932},{292,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{292,19}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_gui.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,400},{130,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_gui_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,532},{130,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_huang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_huang_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,134},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_shen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,267},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_shen_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,400},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_sheng.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,533},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_sheng_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,666},{130,131}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,131}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_wang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,799},{131,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_wang_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,1},{131,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_zhen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,134},{131,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sevenstars_zhen_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{133,267},{131,130}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{131,130}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/sxzz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,974},{53,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/SevenStarUI/zjzjys.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,953},{268,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{268,19}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>SevenStarUI.png</string>
+			<key>realTextureFileName</key>
+			<string>SevenStarUI.png</string>
+			<key>size</key>
+			<string>{294,1009}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>294</integer>
+			<key>height</key>
+			<integer>1009</integer>
+		</dict>
+	</dict>
+</plist>

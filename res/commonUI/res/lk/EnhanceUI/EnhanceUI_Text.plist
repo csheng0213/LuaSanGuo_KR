@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/lk/EnhanceUI/shengji_enhance.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1056},{74,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{74,44}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceUI/shibingpeiyang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{301,352}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,357}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceUI/wujiangjinjie.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,352},{301,352}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,357}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceUI/wujiangshengji.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,704},{301,352}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,357}</string>
+			</dict>
+			<key>commonUI/res/lk/EnhanceUI/cs.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1100},{75,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{75,43}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EnhanceUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>EnhanceUI_Text.png</string>
+			<key>size</key>
+			<string>{301,1143}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>301</integer>
+			<key>height</key>
+			<integer>1143</integer>
+		</dict>
+	</dict>
+</plist>

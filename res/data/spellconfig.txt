@@ -1,0 +1,597 @@
+ID	技能名字	技能描述	CD时间	技能片特效	技能片缩放比例	技能范围	技能基准点	阵营选择	半径	角度	高度	宽度	身后距离	值条件(条件)	百分比条件(条件)	几率(条件)	值(条件)	百分比(条件)	延迟时间	间隔时间	总时间	效果选择	作用属性	效果状态	百分比	基础伤害	基础秒数	技能伤害类型	延时类型	效果描述	技能声效	参数1	参数2	参数3	参数4	空行
+100040	용명호소	무장의 공격과 마법이 40% 증가하며， 5초 간 지속됩니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	1	0	0.4		6	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+101040	귀•용명호소	무장의 공격과 마법이 45% 증가하며， 5초 간 지속됩니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	1	0	0.45		8	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+102040	성•용명호소	무장의 공격과 마법이 50% 증가하며， 5초 간 지속됩니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	1	0	0.5		10	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+103040	황•용명호소	무장의 공격과 마법이 55% 증가하며， 5초 간 지속됩니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	1	0	0.55		12	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+110040	용명호소	무장의 공격과 마법이 40% 증가하며， 5초 간 지속됩니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	4	0	0.4		6	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+111040	귀•용명호소	무장의 공격과 마법이 45% 증가하며， 5초 간 지속됩니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	4	0	0.45		8	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+112040	성•용명호소	무장의 공격과 마법이 50% 증가하며， 5초 간 지속됩니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	4	0	0.5		10	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+113040	황•용명호소	무장의 공격과 마법이 55% 증가하며， 5초 간 지속됩니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	4	0	0.55		12	0	1	1,9	sound/skilleffect/zhenyi/zengyi.wav					
+100041	섭혼일식	생명이 가장 적은 적군 무장에게 200%의 공격 피해를 입힙니다.	13	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2		6	3			sound/skilleffect/dao/dao1.wav					
+101041	귀•섭혼일식	생명이 가장 적은 적군 무장에게 220%의 공격 피해를 입힙니다.	12	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.2		8	3			sound/skilleffect/dao/dao1.wav					
+102041	성•섭혼일식	생명이 가장 적은 적군 무장에게 240%의 공격 피해를 입힙니다.	11	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.4		8	3			sound/skilleffect/dao/dao1.wav					
+103041	황•섭혼일식	생명이 가장 적은 적군 무장에게 260%의 공격 피해를 입힙니다.	10	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.6		10	3			sound/skilleffect/dao/dao1.wav					
+100042	금사요일	무장의 현재 생명을 40% 소비하여 공격력을 120% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	9	1	0	1.2		6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101042	귀•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 130% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	9	1	0	1.3		8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102042	성•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 140% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	9	1	0	1.4		10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103042	황•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 150% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	9	1	0	1.5		12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+110042	금사요일	무장의 현재 생명을 40% 소비하여 공격력을 120% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	2	0	-0.4		6	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+111042	귀•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 130% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	2	0	-0.4		8	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+112042	성•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 140% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	2	0	-0.4		10	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+113042	황•금사요일	무장의 현재 생명을 40% 소비하여 공격력을 150% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	2	0	-0.4		12	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+300043	오채수경	무력이 가장 높은 아군 무장의 공격이 40% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		12	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.4	0	7	0	3	1	sound/skilleffect/zhenyi/zengyi.wav					
+301043	귀•오채수경	무력이 가장 높은 아군 무장의 공격이 50% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		12	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.5	0	9	0	3	1	sound/skilleffect/zhenyi/zengyi.wav					
+302043	성•오채수경	무력이 가장 높은 아군 무장의 공격이 60% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		12	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.6	0	11	0	3	1	sound/skilleffect/zhenyi/zengyi.wav					
+303043	황•오채수경	무력이 가장 높은 아군 무장의 공격이 70% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		12	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.7	0	13	0	3	1	sound/skilleffect/zhenyi/zengyi.wav					
+100044	음혈열인	무력이 가장 높은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	13	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		6	4			sound/skilleffect/dao/dao1.wav					
+101044	귀•음혈열인	무력이 가장 높은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	12	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+102044	성•음혈열인	무력이 가장 높은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	11	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+103044	황•음혈열인	무력이 가장 높은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	10	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		10	4			sound/skilleffect/dao/dao1.wav					
+200045	풍권뢰명	부채꼴범위 내에 있는 적군 전체에게 100%의 마법 피해를 입힙니다.	18	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1	0	0	2			sound/skilleffect/lei/lei1.wav					
+201045	귀•풍권뢰명	부채꼴범위 내에 있는 적군 전체에게 110%의 마법 피해를 입힙니다.	17	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.1	0	0	2			sound/skilleffect/lei/lei1.wav					
+202045	성•풍권뢰명	부채꼴범위 내에 있는 적군 전체에게 120%의 마법 피해를 입힙니다.	16	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.2	0	0	2			sound/skilleffect/lei/lei1.wav					
+203045	황•풍권뢰명	부채꼴범위 내에 있는 적군 전체에게 130%의 마법 피해를 입힙니다.	15	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.3	0	0	2			sound/skilleffect/lei/lei1.wav					
+100046	대회천	무장이 입는 피해가 40% 감소하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.4		6	0	2		sound/skilleffect/dun/dunpai1.wav					
+101046	귀•대회천	무장이 입는 피해가 45% 감소하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.45		8	0	2		sound/skilleffect/dun/dunpai1.wav					
+102046	성•대회천	무장이 입는 피해가 50% 감소하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.5		10	0	2		sound/skilleffect/dun/dunpai1.wav					
+103046	황•대회천	무장이 입는 피해가 55% 감소하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.55		12	0	2		sound/skilleffect/dun/dunpai1.wav					
+100047	파풍참	무장 주변에 있는 적군에게 80%의 공격 피해를 입힙니다.	18	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.8		0	3			sound/skilleffect/dao/dao1.wav					
+101047	귀•파풍참	무장 주변에 있는 적군에게 90%의 공격 피해를 입힙니다.	17	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.9		0	3			sound/skilleffect/dao/dao1.wav					
+102047	성•파풍참	무장 주변에 있는 적군에게 100%의 공격 피해를 입힙니다.	16	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1		0	3			sound/skilleffect/dao/dao1.wav					
+103047	황•파풍참	무장 주변에 있는 적군에게 110%의 공격 피해를 입힙니다.	15	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		0	3			sound/skilleffect/dao/dao1.wav					
+100048	풍운변색	생명이 가장 많은 적군 무장에게 200%의 기본 피해를 입힙니다.	13	guangjian_plist		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2		6	1			sound/skilleffect/dao/dao1.wav					
+101048	귀•풍운변색	생명이 가장 많은 적군 무장에게 220%의 기본 피해를 입힙니다.	12	guangjian_plist		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.2		8	1			sound/skilleffect/dao/dao1.wav					
+102048	성•풍운변색	생명이 가장 많은 적군 무장에게 240%의 기본 피해를 입힙니다.	11	guangjian_plist		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.4		8	1			sound/skilleffect/dao/dao1.wav					
+103048	황•풍운변색	생명이 가장 많은 적군 무장에게 260%의 기본 피해를 입힙니다.	10	guangjian_plist		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.6		10	1			sound/skilleffect/dao/dao1.wav					
+100049	치명일격	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 35%만큼 피해를 입힙니다.	13	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.35		0	7			sound/skilleffect/dao/dao1.wav					
+101049	귀•치명일격	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 40%만큼 피해를 입힙니다.	12	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.4		0	7			sound/skilleffect/dao/dao1.wav					
+102049	성•치명일격	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 45%만큼 피해를 입힙니다.	11	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.45		0	7			sound/skilleffect/dao/dao1.wav					
+103049	황•치명일격	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 50%만큼 피해를 입힙니다.	10	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.5		0	7			sound/skilleffect/dao/dao1.wav					
+100050	불굴의지	무장의 방어가 100% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	1		6	0	2	7	sound/skilleffect/zhenyi/zengyi.wav					
+101050	귀•불굴의지	무장의 방어가 110% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	1.1		8	0	2	7	sound/skilleffect/zhenyi/zengyi.wav					
+102050	성•불굴의지	무장의 방어가 120% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	1.2		10	0	2	7	sound/skilleffect/zhenyi/zengyi.wav					
+103050	황•불굴의지	무장의 방어가 130% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	1.3		12	0	2	7	sound/skilleffect/zhenyi/zengyi.wav					
+100051	군마난무	적 군웅 무장의 공격을 30% 하락시키며， 지속시간은 무력에 따라 달라집니다.	20	suijing_plist		39	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.3		0	0	2	2	sound/skilleffect/jianyi/jianyi.wav					
+101051	귀•군마난무	적 군웅 무장의 공격을 35% 하락시키며， 지속시간은 무력에 따라 달라집니다.	20	suijing_plist		39	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.35		0	0	2	2	sound/skilleffect/jianyi/jianyi.wav					
+102051	성•군마난무	적 군웅 무장의 공격을 40% 하락시키며， 지속시간은 무력에 따라 달라집니다.	20	suijing_plist		39	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.4		0	0	2	2	sound/skilleffect/jianyi/jianyi.wav					
+103051	황•군마난무	적 군웅 무장의 공격을 45% 하락시키며， 지속시간은 무력에 따라 달라집니다.	20	suijing_plist		39	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.45		0	0	2	2	sound/skilleffect/jianyi/jianyi.wav					
+100052	패도서혼	생명이 가장 많은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	13	Ani_Lightning		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		6	4			sound/skilleffect/dao/dao1.wav					
+101052	귀•패도서혼	생명이 가장 많은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	12	Ani_Lightning		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+102052	성•패도서혼	생명이 가장 많은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	11	Ani_Lightning		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+103052	황•패도서혼	생명이 가장 많은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	10	Ani_Lightning		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		10	4			sound/skilleffect/dao/dao1.wav					
+100053	패기참	무장 주변에 있는 적군에게 80%의 공격 피해를 입힙니다.	18	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.8		0	3			sound/skilleffect/dao/dao1.wav					
+101053	귀•패기참	무장 주변에 있는 적군에게 90%의 공격 피해를 입힙니다.	17	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.9		0	3			sound/skilleffect/dao/dao1.wav					
+102053	성•패기참	무장 주변에 있는 적군에게 100%의 공격 피해를 입힙니다.	16	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1		0	3			sound/skilleffect/dao/dao1.wav					
+103053	황•패기참	무장 주변에 있는 적군에게 110%의 공격 피해를 입힙니다.	15	Ani_daoguang		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		0	3			sound/skilleffect/dao/dao1.wav					
+100054	기혈마창	적에게 입힌 피해의 30%를 생명으로 흡수하며， 지속시간은 무력에 따라 달라집니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.3		5	0	2		sound/skilleffect/zhenyi/zengyi.wav					
+101054	귀•기혈마창	적에게 입힌 피해의 40%를 생명으로 흡수하며， 지속시간은 무력에 따라 달라집니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.4		5	0	2		sound/skilleffect/zhenyi/zengyi.wav					
+102054	성•기혈마창	적에게 입힌 피해의 50%를 생명으로 흡수하며， 지속시간은 무력에 따라 달라집니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.5		5	0	2		sound/skilleffect/zhenyi/zengyi.wav					
+103054	황•기혈마창	적에게 입힌 피해의 60%를 생명으로 흡수하며， 지속시간은 무력에 따라 달라집니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.6		5	0	2		sound/skilleffect/zhenyi/zengyi.wav					
+300055	풍설빙천	적군 전체가 동결되며， 3초 간 지속됩니다.	20	Ani_ice		4	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	5	0	0	0	0	4	0	1	3	sound/skilleffect/bing/bin1.wav					
+301055	귀•풍설빙천	적군 전체가 동결되며， 4초 간 지속됩니다.	20	Ani_ice		4	2	2	0	0	0	0	0	0	0	1	0	0	1	240	240	5	0	0	0	0	5	0	1	3	sound/skilleffect/bing/bin1.wav					
+302055	성•풍설빙천	적군 전체가 동결되며， 5초 간 지속됩니다.	20	Ani_ice		4	2	2	0	0	0	0	0	0	0	1	0	0	1	300	300	5	0	0	0	0	6	0	1	3	sound/skilleffect/bing/bin1.wav					
+303055	황•풍설빙천	적군 전체가 동결되며， 6초 간 지속됩니다.	20	Ani_ice		4	2	2	0	0	0	0	0	0	0	1	0	0	1	360	360	5	0	0	0	0	7	0	1	3	sound/skilleffect/bing/bin1.wav					
+100056	백마의종	무장의 마법이 60% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	0.6		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101056	귀•백마의종	무장의 마법이 70% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	0.7		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102056	성•백마의종	무장의 마법이 80% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	0.8		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103056	황•백마의종	무장의 마법이 90% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	0.9		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+100057	천군만마	아군 전체 병사의 공격이 40% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.4		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101057	귀•천군만마	아군 전체 병사의 공격이 45% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.45		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102057	성•천군만마	아군 전체 병사의 공격이 50% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.5		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103057	황•천군만마	아군 전체 병사의 공격이 55% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.55		0	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+300058	회광반조	아군 무장의 공격이 30% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.3	0	7	0	3	1	sound/skilleffect/jianyi/jianyi.wav					
+301058	귀•회광반조	아군 무장의 공격이 35% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.35	0	9	0	3	1	sound/skilleffect/jianyi/jianyi.wav					
+302058	성•회광반조	아군 무장의 공격이 40% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.4	0	11	0	3	1	sound/skilleffect/jianyi/jianyi.wav					
+303058	황•회광반조	아군 무장의 공격이 45% 증가하며， 지속시간은 지력에 따라 달라집니다.	20	huangguang_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.45	0	13	0	3	1	sound/skilleffect/jianyi/jianyi.wav					
+200059	오뢰굉정	부채꼴범위 내에 있는 적군 전체에게 100%의 마법 피해를 입힙니다.	18	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1	0	0	2			sound/skilleffect/lei/lei1.wav					
+201059	귀•오뢰굉정	부채꼴범위 내에 있는 적군 전체에게 110%의 마법 피해를 입힙니다.	17	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.1	0	0	2			sound/skilleffect/lei/lei1.wav					
+202059	성•오뢰굉정	부채꼴범위 내에 있는 적군 전체에게 120%의 마법 피해를 입힙니다.	16	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.2	0	0	2			sound/skilleffect/lei/lei1.wav					
+203059	황•오뢰굉정	부채꼴범위 내에 있는 적군 전체에게 130%의 마법 피해를 입힙니다.	15	Ani_dian		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.3	0	0	2			sound/skilleffect/lei/lei1.wav					
+100060	수라부체	공격이 40% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.6		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+101060	귀•수라부체	공격이 30% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.6		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+102060	성•수라부체	공격이 20% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.6		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+103060	황•수라부체	공격이 10% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.6		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+110060	수라부체	공격이 40% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.4		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+111060	귀•수라부체	공격이 30% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.3		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+112060	성•수라부체	공격이 20% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.2		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+113060	황•수라부체	공격이 10% 하락하지만 받는 피해를 60%로 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.1		0	0	2	2,8	sound/skilleffect/dun/dunpai1.wav					
+100061	강력일격	무력이 가장 높은 적군 무장에게 180%의 기본 피해를 입힙니다.	13	guangjian_plist		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.8		6	1			sound/skilleffect/dao/dao1.wav					
+101061	귀•강력일격	무력이 가장 높은 적군 무장에게 200%의 기본 피해를 입힙니다.	12	guangjian_plist		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2		8	1			sound/skilleffect/dao/dao1.wav					
+102061	성•강력일격	무력이 가장 높은 적군 무장에게 220%의 기본 피해를 입힙니다.	11	guangjian_plist		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.2		8	1			sound/skilleffect/dao/dao1.wav					
+103061	황•강력일격	무력이 가장 높은 적군 무장에게 240%의 기본 피해를 입힙니다.	10	guangjian_plist		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.4		10	1			sound/skilleffect/dao/dao1.wav					
+100062	주작연시	무장의 공격이 30% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.3		6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101062	귀•주작연시	무장의 공격이 40% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.4		8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102062	성•주작연시	무장의 공격이 50% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.5		10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103062	황•주작연시	무장의 공격이 60% 증가하며， 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.6		12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+100063	제신멸세	생명이 가장 많은 적군에게 자신의 현재 생명의 40%만큼 피해를 입힙니다.	13	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.4		0	7			sound/skilleffect/dao/dao1.wav					
+101063	귀•제신멸세	생명이 가장 많은 적군에게 자신의 현재 생명의 45%만큼 피해를 입힙니다.	12	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.45		0	7			sound/skilleffect/dao/dao1.wav					
+102063	성•제신멸세	생명이 가장 많은 적군에게 자신의 현재 생명의 50%만큼 피해를 입힙니다.	11	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.5		0	7			sound/skilleffect/dao/dao1.wav					
+103063	황•제신멸세	생명이 가장 많은 적군에게 자신의 현재 생명의 55%만큼 피해를 입힙니다.	10	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.55		0	7			sound/skilleffect/dao/dao1.wav					
+100064	무신패참	부채꼴범위 내에 있는 적군 전체에게 80%의 공격 피해를 입힙니다.	18	Ani_daoguang		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	0.8		0	3			sound/skilleffect/dao/dao1.wav					
+101064	귀•무신패참	부채꼴범위 내에 있는 적군 전체에게 90%의 공격 피해를 입힙니다.	17	Ani_daoguang		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	0.9		0	3			sound/skilleffect/dao/dao1.wav					
+102064	성•무신패참	부채꼴범위 내에 있는 적군 전체에게 100%의 공격 피해를 입힙니다.	16	Ani_daoguang		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1		0	3			sound/skilleffect/dao/dao1.wav					
+103064	황•무신패참	부채꼴범위 내에 있는 적군 전체에게 110%의 공격 피해를 입힙니다.	15	Ani_daoguang		2	1	2	500	100	0	0	50	0	0	1	0	0	1	0	0	6	0	0	1.1		0	3			sound/skilleffect/dao/dao1.wav					
+100065	노화중소	모든 적군 무장에게 90%의 기본 피해를 입힙니다.	18	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.9		0	1			sound/skilleffect/dao/dao1.wav					
+101065	귀•노화중소	모든 적군 무장에게 100%의 기본 피해를 입힙니다.	17	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1		0	1			sound/skilleffect/dao/dao1.wav					
+102065	성•노화중소	모든 적군 무장에게 110%의 기본 피해를 입힙니다.	16	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		0	1			sound/skilleffect/dao/dao1.wav					
+103065	황•노화중소	모든 적군 무장에게 120%의 기본 피해를 입힙니다.	15	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2		0	1			sound/skilleffect/dao/dao1.wav					
+100066	검척제귀	생명이 가장 적은 적군 무장에게 180%의 기본 피해를 입힙니다.	13	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.8		6	1			sound/skilleffect/dao/dao1.wav					
+101066	귀•검척제귀	생명이 가장 적은 적군 무장에게 200%의 기본 피해를 입힙니다.	12	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2		8	1			sound/skilleffect/dao/dao1.wav					
+102066	성•검척제귀	생명이 가장 적은 적군 무장에게 220%의 기본 피해를 입힙니다.	11	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.2		8	1			sound/skilleffect/dao/dao1.wav					
+103066	황•검척제귀	생명이 가장 적은 적군 무장에게 240%의 기본 피해를 입힙니다.	10	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.4		10	1			sound/skilleffect/dao/dao1.wav					
+100067	수라지도	무장이 입는 피해가 60% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.6		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+101067	귀•수라지도	무장이 입는 피해가 65% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.65		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+102067	성•수라지도	무장이 입는 피해가 70% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.7		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+103067	황•수라지도	무장이 입는 피해가 75% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	6	0.75		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+110067	수라지도	무장이 입는 피해가 60% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	60	0	1	9	0	-0.02		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+111067	귀•수라지도	무장이 입는 피해가 65% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	60	0	1	9	0	-0.02		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+112067	성•수라지도	무장이 입는 피해가 70% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	60	0	1	9	0	-0.02		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+113067	황•수라지도	무장이 입는 피해가 75% 감소하며， 생명이 초당 2%씩 손실됩니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	60	0	1	9	0	-0.02		0	0	2	8	sound/skilleffect/dun/dunpai1.wav					
+200068	비양발호	지력이 가장 높은 적군 무장의 마법을 30% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		14	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.3	0	6	0	3	9	sound/skilleffect/jianyi/jianyi.wav					
+201068	귀•비양발호	지력이 가장 높은 적군 무장의 마법을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		14	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.4	0	7	0	3	9	sound/skilleffect/jianyi/jianyi.wav					
+202068	성•비양발호	지력이 가장 높은 적군 무장의 마법을 50% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		14	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.5	0	8	0	3	9	sound/skilleffect/jianyi/jianyi.wav					
+203068	황•비양발호	지력이 가장 높은 적군 무장의 마법을 60% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		14	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.6	0	10	0	3	9	sound/skilleffect/jianyi/jianyi.wav					
+100069	이명상박	가장 많은 생명을 가진 적군에게 자신의 현재 손실된 생명의 65%만큼 피해를 입힙니다.	13	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.65		0	8			sound/skilleffect/dao/dao1.wav					
+101069	귀•이명상박	가장 많은 생명을 가진 적군에게 자신의 현재 손실된 생명의 70%만큼 피해를 입힙니다.	12	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.7		0	8			sound/skilleffect/dao/dao1.wav					
+102069	성•이명상박	가장 많은 생명을 가진 적군에게 자신의 현재 손실된 생명의 75%만큼 피해를 입힙니다.	11	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.75		0	8			sound/skilleffect/dao/dao1.wav					
+103069	황•이명상박	가장 많은 생명을 가진 적군에게 자신의 현재 손실된 생명의 80%만큼 피해를 입힙니다.	10	Ani_phoenix		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.8		0	8			sound/skilleffect/dao/dao1.wav					
+300070	이화위귀	적군 전체의 방어를 50% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.5	0	6	0	3	10	sound/skilleffect/jianyi/jianyi.wav					
+301070	귀•이화위귀	적군 전체의 방어를 55% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.55	0	8	0	3	10	sound/skilleffect/jianyi/jianyi.wav					
+302070	성•이화위귀	적군 전체의 방어를 60% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.6	0	10	0	3	10	sound/skilleffect/jianyi/jianyi.wav					
+303070	황•이화위귀	적군 전체의 방어를 65% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.65	0	12	0	3	10	sound/skilleffect/jianyi/jianyi.wav					
+300071	구혼출규	모든 적군 무장의 공격을 30% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.3	0	7	0	3	2	sound/skilleffect/jianyi/jianyi.wav					
+301071	귀•구혼출규	모든 적군 무장의 공격을 35% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.35	0	9	0	3	2	sound/skilleffect/jianyi/jianyi.wav					
+302071	성•구혼출규	모든 적군 무장의 공격을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.4	0	11	0	3	2	sound/skilleffect/jianyi/jianyi.wav					
+303071	황•구혼출규	모든 적군 무장의 공격을 45% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.45	0	13	0	3	2	sound/skilleffect/jianyi/jianyi.wav					
+200072	산혼비시	적군 전체의 마법을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.4	0	6	0	3	4	sound/skilleffect/jianyi/jianyi.wav					
+201072	귀•산혼비시	적군 전체의 마법을 45% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.45	0	8	0	3	4	sound/skilleffect/jianyi/jianyi.wav					
+202072	성•산혼비시	적군 전체의 마법을 50% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.5	0	10	0	3	4	sound/skilleffect/jianyi/jianyi.wav					
+203072	황•산혼비시	적군 전체의 마법을 55% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.55	0	12	0	3	4	sound/skilleffect/jianyi/jianyi.wav					
+100073	무영삭혼	생명이 가장 적은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	13	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		6	4			sound/skilleffect/dao/dao1.wav					
+101073	귀•무영삭혼	생명이 가장 적은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	12	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+102073	성•무영삭혼	생명이 가장 적은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	11	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		8	4			sound/skilleffect/dao/dao1.wav					
+103073	황•무영삭혼	생명이 가장 적은 적군을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	10	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0		10	4			sound/skilleffect/dao/dao1.wav					
+100074	인정천하	촉나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+101074	귀•인정천하	촉나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+102074	성•인정천하	촉나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+103074	황•인정천하	촉나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+110074	인정천하	촉나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+111074	귀•인정천하	촉나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+112074	성•인정천하	촉나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+113074	황•인정천하	촉나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+120074	인정천하	촉나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+121074	귀•인정천하	촉나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+122074	성•인정천하	촉나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+123074	황•인정천하	촉나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20			36	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+100075	음혈열인	무력이 가장 높은 적군 무장에게 210%의 기본 피해와 무장간 무력차이의 200%만큼 추가 피해를 입히며， 3초간 받는 피해를 70% 감소 시킵니다.	13	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.1		6	4			sound/skilleffect/dao/dao1.wav					
+101075	귀•음혈열인	무력이 가장 높은 적군 무장에게 230%의 기본 피해와 무장간 무력차이의 220%만큼 추가 피해를 입히며， 4초간 받는 피해를 70% 감소 시킵니다.	12	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.3		8	4			sound/skilleffect/dao/dao1.wav					
+102075	성•음혈열인	무력이 가장 높은 적군 무장에게 250%의 기본 피해와 무장간 무력차이의 240%만큼 추가 피해를 입히며， 5초간 받는 피해를 70% 감소 시킵니다.	11	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.5		8	4			sound/skilleffect/dao/dao1.wav					
+103075	황•음혈열인	무력이 가장 높은 적군 무장에게 270%의 기본 피해와 무장간 무력차이의 260%만큼 추가 피해를 입히며， 6초간 받는 피해를 70% 감소 시킵니다.	10	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.7		10	4			sound/skilleffect/dao/dao1.wav					
+110075	음혈열인	무력이 가장 높은 적군 무장에게 210%의 기본 피해와 무장간 무력차이의 200%만큼 추가 피해를 입히며， 3초간 받는 피해를 70% 감소 시킵니다.	13			9	1	1	0	0	0	0	0	0	0	1	0	0	1	180	180	4	0	6	0.7		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+111075	귀•음혈열인	무력이 가장 높은 적군 무장에게 230%의 기본 피해와 무장간 무력차이의 220%만큼 추가 피해를 입히며， 4초간 받는 피해를 70% 감소 시킵니다.	12			9	1	1	0	0	0	0	0	0	0	1	0	0	1	240	240	4	0	6	0.7		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+112075	성•음혈열인	무력이 가장 높은 적군 무장에게 250%의 기본 피해와 무장간 무력차이의 240%만큼 추가 피해를 입히며， 5초간 받는 피해를 70% 감소 시킵니다.	11			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	4	0	6	0.7		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+113075	황•음혈열인	무력이 가장 높은 적군 무장에게 270%의 기본 피해와 무장간 무력차이의 260%만큼 추가 피해를 입히며， 6초간 받는 피해를 70% 감소 시킵니다.	10			9	1	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4	0	6	0.7		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+100076	금사요일	무장의 현재 생명을 20% 소비하여 공격력을 160% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.6		6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101076	귀•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 170% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.7		8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102076	성•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 180% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.8		10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103076	황•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 190% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.9		12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+110076	금사요일	무장의 현재 생명을 20% 소비하여 공격력을 160% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		6	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+111076	귀•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 170% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		8	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+112076	성•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 180% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		10	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+113076	황•금사요일	무장의 현재 생명을 20% 소비하여 공격력을 190% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		12	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+100077	일기당선	직사각형범위 내에 있는 적군 전체에게 120%의 공격 피해를 입힙니다.	18	Ani_Lightning		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.2		0	3			sound/skilleffect/dao/dao1.wav					
+101077	귀•일기당선	직사각형범위 내에 있는 적군 전체에게 130%의 공격 피해를 입힙니다.	17	Ani_Lightning		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.3		0	3			sound/skilleffect/dao/dao1.wav					
+102077	성•일기당선	직사각형범위 내에 있는 적군 전체에게 140%의 공격 피해를 입힙니다.	16	Ani_Lightning		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.4		0	3			sound/skilleffect/dao/dao1.wav					
+103077	황•일기당선	직사각형범위 내에 있는 적군 전체에게 150%의 공격 피해를 입힙니다.	15	Ani_Lightning		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.5		0	3			sound/skilleffect/dao/dao1.wav					
+100078	무쌍룡담	무장의 공격이 90% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.9	0	6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101078	귀•무쌍룡담	무장의 공격이 100% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1	0	8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102078	성•무쌍룡담	무장의 공격이 110% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.1	0	10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103078	황•무쌍룡담	무장의 공격이 120% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.2	0	12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+110078	무쌍룡담	무장의 공격이 90% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+111078	귀•무쌍룡담	무장의 공격이 100% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+112078	성•무쌍룡담	무장의 공격이 110% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+113078	황•무쌍룡담	무장의 공격이 120% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+300079	기문둔갑	적군 전체의 공격과 마법을 55% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.55	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+301079	귀•기문둔갑	적군 전체의 공격과 마법을 60% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.6	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+302079	성•기문둔갑	적군 전체의 공격과 마법을 65% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.65	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+303079	황•기문둔갑	적군 전체의 공격과 마법을 70% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.7	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+310079	기문둔갑	적군 전체의 공격과 마법을 55% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.55	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+311079	귀•기문둔갑	적군 전체의 공격과 마법을 60% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.6	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+312079	성•기문둔갑	적군 전체의 공격과 마법을 65% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.65	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+313079	황•기문둔갑	적군 전체의 공격과 마법을 70% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.7	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+300080	호무매혹	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 35%의 마법 피해를 입힙니다.	18	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.35	0	7	2			sound/skilleffect/lei/lei1.wav					
+301080	귀•호무매혹	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 40%의 마법 피해를 입힙니다.	17	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.4	0	9	2			sound/skilleffect/lei/lei1.wav					
+302080	성•호무매혹	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 45%의 마법 피해를 입힙니다.	16	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.45	0	11	2			sound/skilleffect/lei/lei1.wav					
+303080	황•호무매혹	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 50%의 마법 피해를 입힙니다.	15	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.5	0	13	2			sound/skilleffect/lei/lei1.wav					
+200081	기린토주	적군 전체에게 80%의 기본 피해를 입힙니다.	18	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.8	0	0	1			sound/skilleffect/dao/dao1.wav					
+201081	귀•기린토주	적군 전체에게 85%의 기본 피해를 입힙니다.	17	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.85	0	0	1			sound/skilleffect/dao/dao1.wav					
+202081	성•기린토주	적군 전체에게 90%의 기본 피해를 입힙니다.	16	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.9	0	0	1			sound/skilleffect/dao/dao1.wav					
+203081	황•기린토주	적군 전체에게 95%의 기본 피해를 입힙니다.	15	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0.95	0	0	1			sound/skilleffect/dao/dao1.wav					
+200082	기문둔갑	적군 전체의 공격과 마법을 30% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.3	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+201082	귀•기문둔갑	적군 전체의 공격과 마법을 35% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.35	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+202082	성•기문둔갑	적군 전체의 공격과 마법을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.4	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+203082	황•기문둔갑	적군 전체의 공격과 마법을 45% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.45	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+210082	기문둔갑	적군 전체의 공격과 마법을 30% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.3	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+211082	귀•기문둔갑	적군 전체의 공격과 마법을 35% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.35	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+212082	성•기문둔갑	적군 전체의 공격과 마법을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.4	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+213082	황•기문둔갑	적군 전체의 공격과 마법을 45% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.45	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+200083	지옥화	적군 전체에게 100%의 마법 피해를 입힙니다.	18	huolong_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1	0	0	2			sound/skilleffect/huo/huo1.wav					
+201083	귀•지옥화	적군 전체에게 105%의 마법 피해를 입힙니다.	17	huolong_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.05	0	0	2			sound/skilleffect/huo/huo1.wav					
+202083	성•지옥화	적군 전체에게 110%의 마법 피해를 입힙니다.	16	huolong_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1	0	0	2			sound/skilleffect/huo/huo1.wav					
+203083	황•지옥화	적군 전체에게 115%의 마법 피해를 입힙니다.	15	huolong_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.15	0	0	2			sound/skilleffect/huo/huo1.wav					
+100084	치명일전	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 30%만큼 피해를 입힙니다.	13	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.3		0	7			sound/skilleffect/dao/dao1.wav					
+101084	귀•치명일전	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 35%만큼 피해를 입힙니다.	12	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.35		0	7			sound/skilleffect/dao/dao1.wav					
+102084	성•치명일전	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 40%만큼 피해를 입힙니다.	11	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.4		0	7			sound/skilleffect/dao/dao1.wav					
+103084	황•치명일전	생명이 가장 적은 적군 무장에게 자신의 현재 생명의 45%만큼 피해를 입힙니다.	10	Ani_phoenix		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	0	0.45		0	7			sound/skilleffect/dao/dao1.wav					
+100085	마왕연옥	군웅 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+101085	귀•마왕연옥	군웅 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+102085	성•마왕연옥	군웅 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+103085	황•마왕연옥	군웅 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20	huangguang_plist		39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+110085	마왕연옥	군웅 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+111085	귀•마왕연옥	군웅 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+112085	성•마왕연옥	군웅 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+113085	황•마왕연옥	군웅 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+120085	마왕연옥	군웅 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+121085	귀•마왕연옥	군웅 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+122085	성•마왕연옥	군웅 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+123085	황•마왕연옥	군웅 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20			39	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+100086	천하무쌍	적군 전체에게 115%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	18	Ani_duodaoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.15		0	3			sound/skilleffect/dao/dao1.wav					
+101086	귀•천하무쌍	적군 전체에게 120%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	17	Ani_duodaoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2		0	3			sound/skilleffect/dao/dao1.wav					
+102086	성•천하무쌍	적군 전체에게 125%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	16	Ani_duodaoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.25		0	3			sound/skilleffect/dao/dao1.wav					
+103086	황•천하무쌍	적군 전체에게 130%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	15	Ani_duodaoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		0	3			sound/skilleffect/dao/dao1.wav					
+110086	천하무쌍	적군 전체에게 115%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	18			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.08					1						
+111086	귀•천하무쌍	적군 전체에게 120%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	17			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.08					1						
+112086	성•천하무쌍	적군 전체에게 125%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	16			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.08					1						
+113086	황•천하무쌍	적군 전체에게 130%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을8% 상승 시킵니다.	15			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.08					1						
+300087	괴뇌와와	아군 병사의 공격과 마법이 45% 증가하며， 6초간 받는 피해를 20% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	2	1		0.45		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+301087	귀•괴뇌와와	아군 병사의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1		0.5		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+302087	성•괴뇌와와	아군 병사의 공격과 마법이 55% 증가하며， 10초간 받는 피해를 20% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1		0.55		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+303087	황•괴뇌와와	아군 병사의 공격과 마법이 60% 증가하며， 12초간 받는 피해를 20% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	2	1		0.6		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+310087	괴뇌와와	아군 병사의 공격과 마법이 45% 증가하며， 6초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	2	4		0.45				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+311087	귀•괴뇌와와	아군 병사의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4		0.5				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+312087	성•괴뇌와와	아군 병사의 공격과 마법이 55% 증가하며， 10초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4		0.55				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+313087	황•괴뇌와와	아군 병사의 공격과 마법이 60% 증가하며， 12초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	2	4		0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+320087	괴뇌와와	아군 병사의 공격과 마법이 45% 증가하며， 6초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+321087	귀•괴뇌와와	아군 병사의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+322087	성•괴뇌와와	아군 병사의 공격과 마법이 55% 증가하며， 10초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+323087	황•괴뇌와와	아군 병사의 공격과 마법이 60% 증가하며， 12초간 받는 피해를 20% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+200088	태평성세	아군 전체 병사의 공격이 100% 증가하며， 4초 간 지속됩니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	240	240	2	1	0	1		0	0	1	1	sound/skilleffect/zhenyi/zengyi.wav					
+201088	귀•태평성세	아군 전체 병사의 공격이 100% 증가하며， 5초 간 지속됩니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	300	300	2	1	0	1		0	0	1	1	sound/skilleffect/zhenyi/zengyi.wav					
+202088	성•태평성세	아군 전체 병사의 공격이 100% 증가하며， 6초 간 지속됩니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	2	1	0	1		0	0	1	1	sound/skilleffect/zhenyi/zengyi.wav					
+203088	황•태평성세	아군 전체 병사의 공격이 100% 증가하며， 7초 간 지속됩니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	420	420	2	1	0	1		0	0	1	1	sound/skilleffect/zhenyi/zengyi.wav					
+400089	군심대진	아군 전체가 초당 마법수치의 36%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.3	0	5	0	1		sound/skilleffect/huixue/huixue.wav					
+401089	귀•군심대진	아군 전체가 초당 마법수치의 39%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.33	0	7	0	1		sound/skilleffect/huixue/huixue.wav					
+402089	성•군심대진	아군 전체가 초당 마법수치의 42%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.36	0	9	0	1		sound/skilleffect/huixue/huixue.wav					
+403089	황•군심대진	아군 전체가 초당 마법수치의 45%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.39	0	11	0	1		sound/skilleffect/huixue/huixue.wav					
+100090	귀옥환신	무장의 공격이 90% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	0.9		6	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+101090	귀•귀옥환신	무장의 공격이 100% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1		8	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+102090	성•귀옥환신	무장의 공격이 110% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.1		10	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+103090	황•귀옥환신	무장의 공격이 120% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.2		12	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+110090	귀옥환신	무장의 공격이 90% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		6	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+111090	귀•귀옥환신	무장의 공격이 100% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		8	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+112090	성•귀옥환신	무장의 공격이 110% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		10	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+113090	황•귀옥환신	무장의 공격이 120% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		12	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+400091	묘수회춘	주변 아군의 생명력이 초당 무장의 마법수치의 44%만큼 회복되며 5초간 지속됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	60	300	7	0	0	0.44	0	5	0	1		sound/skilleffect/huixue/huixue.wav					
+401091	귀•묘수회춘	주변 아군의 생명력이 초당 무장의 마법수치의 46%만큼 회복되며 5초간 지속됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	60	300	7	0	0	0.46	0	7	0	1		sound/skilleffect/huixue/huixue.wav					
+402091	성•묘수회춘	주변 아군의 생명력이 초당 무장의 마법수치의 48%만큼 회복되며 5초간 지속됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	60	300	7	0	0	0.48	0	9	0	1		sound/skilleffect/huixue/huixue.wav					
+403091	황•묘수회춘	주변 아군의 생명력이 초당 무장의 마법수치의 50%만큼 회복되며 5초간 지속됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	60	300	7	0	0	0.5	0	11	0	1		sound/skilleffect/huixue/huixue.wav					
+200092	천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 50%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+201092	귀•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 55%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+202092	성•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 60%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+203092	황•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 65%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+210092	천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 50%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.5	0	0	8			sound/skilleffect/huo/huo1.wav					
+211092	귀•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 55%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.55	0	0	8			sound/skilleffect/huo/huo1.wav					
+212092	성•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 60%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.6	0	0	8			sound/skilleffect/huo/huo1.wav					
+213092	황•천화락	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 65%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.65	0	0	8			sound/skilleffect/huo/huo1.wav					
+200093	천강전기	위나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+201093	귀•천강전기	위나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+202093	성•천강전기	위나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+203093	황•천강전기	위나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+210093	천강전기	위나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+211093	귀•천강전기	위나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+212093	성•천강전기	위나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+213093	황•천강전기	위나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+220093	천강전기	위나라 무장의 공격과 마법이 50% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+221093	귀•천강전기	위나라 무장의 공격과 마법이 55% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+222093	성•천강전기	위나라 무장의 공격과 마법이 60% 증가하며， 8초간 받는 피해를 20% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+223093	황•천강전기	위나라 무장의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 30% 감소 시킵니다.	20			38	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+200094	절대영도	적군 전체에게 100%의 마법 피해를 입히며，1초간 결빙 시킵니다.	18	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1	0	4	2		3	sound/skilleffect/bing/bin1.wav					
+201094	귀•절대영도	적군 전체에게 105%의 마법 피해를 입히며，1초간 결빙 시킵니다.	17	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.05	0	5	2		3	sound/skilleffect/bing/bin1.wav					
+202094	성•절대영도	적군 전체에게 110%의 마법 피해를 입히며，1초간 결빙 시킵니다.	16	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.1	0	6	2		3	sound/skilleffect/bing/bin1.wav					
+203094	황•절대영도	적군 전체에게 115%의 마법 피해를 입히며，1초간 결빙 시킵니다.	15	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.15	0	7	2		3	sound/skilleffect/bing/bin1.wav					
+210094	절대영도	적군 전체에게 100%의 마법 피해를 입히며，1초간 결빙 시킵니다.	18			4	2	2			0	0		0	0	1	0	0	1	60	60	5	0	0	0	0	4	0	1	3	sound/skilleffect/bing/bin1.wav					
+211094	귀•절대영도	적군 전체에게 105%의 마법 피해를 입히며，1초간 결빙 시킵니다.	17			4	2	2			0	0		0	0	1	0	0	1	60	60	5	0	0	0	0	5	0	1	3	sound/skilleffect/bing/bin1.wav					
+212094	성•절대영도	적군 전체에게 110%의 마법 피해를 입히며，1초간 결빙 시킵니다.	16			4	2	2			0	0		0	0	1	0	0	1	60	60	5	0	0	0	0	6	0	1	3	sound/skilleffect/bing/bin1.wav					
+213094	황•절대영도	적군 전체에게 115%의 마법 피해를 입히며，1초간 결빙 시킵니다.	15			4	2	2			0	0		0	0	1	0	0	1	60	60	5	0	0	0	0	7	0	1	3	sound/skilleffect/bing/bin1.wav					
+210095	설무만천	적군 전체에게 80%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	18	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	4	0	1	3	sound/skilleffect/bing/bin1.wav					
+211095	귀•설무만천	적군 전체에게 85%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	17	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	5	0	1	3	sound/skilleffect/bing/bin1.wav					
+212095	성•설무만천	적군 전체에게 90%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	16	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	6	0	1	3	sound/skilleffect/bing/bin1.wav					
+213095	황•설무만천	적군 전체에게 95%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	15	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	7	0	1	3	sound/skilleffect/bing/bin1.wav					
+200095	설무만천	적군 전체에게 80%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	18			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	0.8	0	4	2		3	sound/skilleffect/bing/bin1.wav					
+201095	귀•설무만천	적군 전체에게 85%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	17			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	0.85	0	5	2		3	sound/skilleffect/bing/bin1.wav					
+202095	성•설무만천	적군 전체에게 90%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	16			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	0.9	0	6	2		3	sound/skilleffect/bing/bin1.wav					
+203095	황•설무만천	적군 전체에게 95%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	15			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	0.95	0	7	2		3	sound/skilleffect/bing/bin1.wav					
+100096	전신축복	무장이 입는 피해가 80% 감소하며，10초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.8		6		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+101096	귀•전신축복	무장이 입는 피해가 80% 감소하며，11초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	660	660	4		6	0.8		8		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+102096	성•전신축복	무장이 입는 피해가 80% 감소하며，12초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	720	720	4		6	0.8		10		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+103096	황•전신축복	무장이 입는 피해가 80% 감소하며，13초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	780	780	4		6	0.8		12		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+100097	귀곡랑호	무력이 가장 낮은 적군 무장에게 320% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	13	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.2		6	1			sound/skilleffect/dao/dao1.wav					
+101097	귀•귀곡랑호	무력이 가장 낮은 적군 무장에게 340% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	12	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.4		8	1			sound/skilleffect/dao/dao1.wav					
+102097	성•귀곡랑호	무력이 가장 낮은 적군 무장에게 360% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	11	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.6		8	1			sound/skilleffect/dao/dao1.wav					
+103097	황•귀곡랑호	무력이 가장 낮은 적군 무장에게 380% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	10	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.8		10	1			sound/skilleffect/dao/dao1.wav					
+110097	귀곡랑호	무력이 가장 낮은 적군 무장에게 320% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	13	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.5		6		1	9	sound/skilleffect/dao/dao1.wav					
+111097	귀•귀곡랑호	무력이 가장 낮은 적군 무장에게 340% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	12	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.5		8		1	9	sound/skilleffect/dao/dao1.wav					
+112097	성•귀곡랑호	무력이 가장 낮은 적군 무장에게 360% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	11	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.5		8		1	9	sound/skilleffect/dao/dao1.wav					
+113097	황•귀곡랑호	무력이 가장 낮은 적군 무장에게 380% 기본 피해를 입히며， 3초간 마법공격을 50% 하락 시킵니다.	10	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.5		10		1	9	sound/skilleffect/dao/dao1.wav					
+200098	낭고사야	모든 적군 무장에게 100%의 기본 피해를 입힙니다.	18	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1		0	1			sound/skilleffect/dao/dao1.wav					
+201098	귀•낭고사야	모든 적군 무장에게 110%의 기본 피해를 입힙니다.	17	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		0	1			sound/skilleffect/dao/dao1.wav					
+202098	성•낭고사야	모든 적군 무장에게 120%의 기본 피해를 입힙니다.	16	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2		0	1			sound/skilleffect/dao/dao1.wav					
+203098	황•낭고사야	모든 적군 무장에게 130%의 기본 피해를 입힙니다.	15	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		0	1			sound/skilleffect/dao/dao1.wav					
+300099	신위참	모든 적군 무장에게 130%의 마법 피해를 입히며，적군의 방어를 20%하락시킵니다.	18	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		0	2		10	sound/skilleffect/dao/dao1.wav					
+301099	귀•신위참	모든 적군 무장에게 140%의 마법 피해를 입히며，적군의 방어를 30%하락시킵니다.	17	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.4		0	2		10	sound/skilleffect/dao/dao1.wav					
+302099	성•신위참	모든 적군 무장에게 150%의 마법 피해를 입히며，적군의 방어를 40%하락시킵니다.	16	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.5		0	2		10	sound/skilleffect/dao/dao1.wav					
+303099	황•신위참	모든 적군 무장에게 160%의 마법 피해를 입히며，적군의 방어를 50%하락시킵니다.	15	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.6		0	2		10	sound/skilleffect/dao/dao1.wav					
+310099	신위참	모든 적군 무장에게 130%의 마법 피해를 입히며，적군의 방어를 20%하락시킵니다.	18			40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.2				2	10	sound/skilleffect/dao/dao1.wav					
+311099	귀•신위참	모든 적군 무장에게 140%의 마법 피해를 입히며，적군의 방어를 30%하락시킵니다.	17			40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.3				2	10	sound/skilleffect/dao/dao1.wav					
+312099	성•신위참	모든 적군 무장에게 150%의 마법 피해를 입히며，적군의 방어를 40%하락시킵니다.	16			40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.4				2	10	sound/skilleffect/dao/dao1.wav					
+313099	황•신위참	모든 적군 무장에게 160%의 마법 피해를 입히며，적군의 방어를 50%하락시킵니다.	15			40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	5	0	-0.5				2	10	sound/skilleffect/dao/dao1.wav					
+400100	구사부상	무장의 주변 아군의 생명이 마법수치의 150%만큼 회복 됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.5	0	5	0			sound/skilleffect/huixue/huixue.wav					
+401100	귀•구사부상	무장의 주변 아군의 생명이 마법수치의 160%만큼 회복 됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.6	0	7	0			sound/skilleffect/huixue/huixue.wav					
+402100	성•구사부상	무장의 주변 아군의 생명이 마법수치의 170%만큼 회복 됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.7	0	9	0			sound/skilleffect/huixue/huixue.wav					
+403100	황•구사부상	무장의 주변 아군의 생명이 마법수치의 180%만큼 회복 됩니다.	20	Ani_greenLight		1	1	1	300	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.8	0	11	0			sound/skilleffect/huixue/huixue.wav					
+100101	사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 50%를 자신의 생명으로 흡수합니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+101101	귀•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 60%를 자신의 생명으로 흡수합니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+102101	성•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 70%를 자신의 생명으로 흡수합니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+103101	황•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 80%를 자신의 생명으로 흡수합니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+110101	사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 50%를 자신의 생명으로 흡수합니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		1	0.5				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+111101	귀•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 60%를 자신의 생명으로 흡수합니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		1	0.6				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+112101	성•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 70%를 자신의 생명으로 흡수합니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		1	0.7				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+113101	황•사명일전	무장의 피해를 30%감소시키며， 8초간 상대 생명 피해의 80%를 자신의 생명으로 흡수합니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		1	0.8				1	8	sound/skilleffect/zhenyi/zengyi.wav					
+300102	혼비백산	적군 전체의 마법을 40% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.4	0	6	0	3	6	sound/skilleffect/jianyi/jianyi.wav					
+301102	귀•혼비백산	적군 전체의 마법을 45% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.45	0	8	0	3	6	sound/skilleffect/jianyi/jianyi.wav					
+302102	성•혼비백산	적군 전체의 마법을 50% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.5	0	10	0	3	6	sound/skilleffect/jianyi/jianyi.wav					
+303102	황•혼비백산	적군 전체의 마법을 55% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	suijing_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.55	0	12	0	3	6	sound/skilleffect/jianyi/jianyi.wav					
+200103	운성주원	직사각형범위 내에 있는 적군 전체에게 140%의 마법 피해를 입힙니다.	18	Ani_dian		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.4		0	2			sound/skilleffect/lei/lei1.wav					
+201103	귀•운성주원	직사각형범위 내에 있는 적군 전체에게 150%의 마법 피해를 입힙니다.	17	Ani_dian		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.5		0	2			sound/skilleffect/lei/lei1.wav					
+202103	성•운성주원	직사각형범위 내에 있는 적군 전체에게 160%의 마법 피해를 입힙니다.	16	Ani_dian		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.6		0	2			sound/skilleffect/lei/lei1.wav					
+203103	황•운성주원	직사각형범위 내에 있는 적군 전체에게 170%의 마법 피해를 입힙니다.	15	Ani_dian		3	1	2	0	0	2600	400	50	0	0	1	0	0	1	0	0	6	0	0	1.7		0	2			sound/skilleffect/lei/lei1.wav					
+200104	마교살	생명이 가장 적은 적군 무장을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	13	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0	0	6	5			sound/skilleffect/dao/dao1.wav					
+201104	귀•마교살	생명이 가장 적은 적군 무장을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	12	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0	0	8	5			sound/skilleffect/dao/dao1.wav					
+202104	성•마교살	생명이 가장 적은 적군 무장을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	11	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0	0	8	5			sound/skilleffect/dao/dao1.wav					
+203104	황•마교살	생명이 가장 적은 적군 무장을 공격하며， 쌍방 무력의 차이가 클 수록 더 큰 피해를 입힙니다.	10	Ani_Lightning		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	0	0	10	5			sound/skilleffect/dao/dao1.wav					
+300105	귀련광마	오나라 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+301105	귀•귀련광마	오나라 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+302105	성•귀련광마	오나라 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+303105	황•귀련광마	오나라 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+310105	귀련광마	오나라 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.5		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+311105	귀•귀련광마	오나라 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.55		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+312105	성•귀련광마	오나라 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.6		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+313105	황•귀련광마	오나라 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4	0	0.65		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+320105	귀련광마	오나라 무장의 공격과 마법이 50% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+321105	귀•귀련광마	오나라 무장의 공격과 마법이 55% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+322105	성•귀련광마	오나라 무장의 공격과 마법이 60% 증가하며，8초간 받는 피해를 20% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.2				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+323105	황•귀련광마	오나라 무장의 공격과 마법이 65% 증가하며，8초간 받는 피해를 30% 감소 시킵니다.	20			37	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+100106	당기립단	원형범위 내에 있는 적군 무장에게 100%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	18	guangjian_plist		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1		6	1		2	sound/skilleffect/dao/dao1.wav					
+101106	귀•당기립단	원형범위 내에 있는 적군 무장에게 110%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	17	guangjian_plist		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		8	1		2	sound/skilleffect/dao/dao1.wav					
+102106	성•당기립단	원형범위 내에 있는 적군 무장에게 120%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	16	guangjian_plist		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2		8	1		2	sound/skilleffect/dao/dao1.wav					
+103106	황•당기립단	원형범위 내에 있는 적군 무장에게 130%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	15	guangjian_plist		1	1	2	300	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		10	1		2	sound/skilleffect/dao/dao1.wav					
+110106	당기립단	원형범위 내에 있는 적군 무장에게 100%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	18			1	1	2	300	0	0	0	0	0	0	1	0	0	1	180	180	2	1		-0.2				1	2	sound/skilleffect/dao/dao1.wav					
+111106	귀•당기립단	원형범위 내에 있는 적군 무장에게 110%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	17			1	1	2	300	0	0	0	0	0	0	1	0	0	1	180	180	2	1		-0.2				1	2	sound/skilleffect/dao/dao1.wav					
+112106	성•당기립단	원형범위 내에 있는 적군 무장에게 120%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	16			1	1	2	300	0	0	0	0	0	0	1	0	0	1	180	180	2	1		-0.2				1	2	sound/skilleffect/dao/dao1.wav					
+113106	황•당기립단	원형범위 내에 있는 적군 무장에게 130%의 기본 피해를 입히고 3초간 공격력을 20% 감소 시킵니다.	15			1	1	2	300	0	0	0	0	0	0	1	0	0	1	180	180	2	1		-0.2				1	2	sound/skilleffect/dao/dao1.wav					
+100107	고룡기혈	적군에게 입힌 피해의 100%만큼 무장의 생명이 회복되며， 4초 간 지속됩니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	240	240	4	0	1	1		5	0	1		sound/skilleffect/zhenyi/zengyi.wav					
+101107	귀•고룡기혈	적군에게 입힌 피해의 100%만큼 무장의 생명이 회복되며， 5초 간 지속됩니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	4	0	1	1		5	0	1		sound/skilleffect/zhenyi/zengyi.wav					
+102107	성•고룡기혈	적군에게 입힌 피해의 100%만큼 무장의 생명이 회복되며， 6초 간 지속됩니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4	0	1	1		5	0	1		sound/skilleffect/zhenyi/zengyi.wav					
+103107	황•고룡기혈	적군에게 입힌 피해의 100%만큼 무장의 생명이 회복되며， 7초 간 지속됩니다.	20	xixue_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	420	420	4	0	1	1		5	0	1		sound/skilleffect/zhenyi/zengyi.wav					
+100108	위진웅사	모든 적군 무장에게 110%의 공격 피해를 입힙니다.	18	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1		0	3			sound/skilleffect/dao/dao1.wav					
+101108	귀•위진웅사	모든 적군 무장에게 120%의 공격 피해를 입힙니다.	17	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2		0	3			sound/skilleffect/dao/dao1.wav					
+102108	성•위진웅사	모든 적군 무장에게 130%의 공격 피해를 입힙니다.	16	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		0	3			sound/skilleffect/dao/dao1.wav					
+103108	황•위진웅사	모든 적군 무장에게 140%의 공격 피해를 입힙니다.	15	Ani_daoguang		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.4		0	3			sound/skilleffect/dao/dao1.wav					
+200109	연옥화해	적군 전체에게 100%의 마법 피해를 입힙니다.	18	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1	0	0	2			sound/skilleffect/huo/huo1.wav					
+201109	귀•연옥화해	적군 전체에게 105%의 마법 피해를 입힙니다.	17	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.05	0	0	2			sound/skilleffect/huo/huo1.wav					
+202109	성•연옥화해	적군 전체에게 110%의 마법 피해를 입힙니다.	16	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1	0	0	2			sound/skilleffect/huo/huo1.wav					
+203109	황•연옥화해	적군 전체에게 115%의 마법 피해를 입힙니다.	15	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.15	0	0	2			sound/skilleffect/huo/huo1.wav					
+400110	국색유리	아군 전체의 생명이 마법수치의 115%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.15	0	5	0			sound/skilleffect/huixue/huixue.wav					
+401110	귀•국색유리	아군 전체의 생명이 마법수치의 125%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.25	0	7	0			sound/skilleffect/huixue/huixue.wav					
+402110	성•국색유리	아군 전체의 생명이 마법수치의 135%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.35	0	9	0			sound/skilleffect/huixue/huixue.wav					
+403110	황•국색유리	아군 전체의 생명이 마법수치의 145%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.45	0	11	0			sound/skilleffect/huixue/huixue.wav					
+400111	치운탁일	아군 전체의 생명이 마법수치의 120%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.2	0	5	0			sound/skilleffect/huixue/huixue.wav					
+401111	귀•치운탁일	아군 전체의 생명이 마법수치의 130%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.3	0	7	0			sound/skilleffect/huixue/huixue.wav					
+402111	성•치운탁일	아군 전체의 생명이 마법수치의 140%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.4	0	9	0			sound/skilleffect/huixue/huixue.wav					
+403111	황•치운탁일	아군 전체의 생명이 마법수치의 150%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	1.5	0	11	0			sound/skilleffect/huixue/huixue.wav					
+100112	봉황열반	생명이 가장 많은 적군 무장에게 자신의 현재 생명의 30%만큼 피해를 입힙니다.	13	Ani_duodaoguang		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.3	0	0	7			sound/skilleffect/dao/dao1.wav					
+101112	귀•봉황열반	생명이 가장 많은 적군 무장에게 자신의 현재 생명의 34%만큼 피해를 입힙니다.	12	Ani_duodaoguang		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.34	0	0	7			sound/skilleffect/dao/dao1.wav					
+102112	성•봉황열반	생명이 가장 많은 적군 무장에게 자신의 현재 생명의 38%만큼 피해를 입힙니다.	11	Ani_duodaoguang		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.38	0	0	7			sound/skilleffect/dao/dao1.wav					
+103112	황•봉황열반	생명이 가장 많은 적군 무장에게 자신의 현재 생명의 42%만큼 피해를 입힙니다.	10	Ani_duodaoguang		13	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.42	0	0	7			sound/skilleffect/dao/dao1.wav					
+100113	편타귀신	생명이 가장 적은 적군 무장에게 200%의 공격 피해를 입힙니다.	13	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2		6	3			sound/skilleffect/dao/dao1.wav					
+101113	귀•편타귀신	생명이 가장 적은 적군 무장에게 220%의 공격 피해를 입힙니다.	12	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.2		8	3			sound/skilleffect/dao/dao1.wav					
+102113	성•편타귀신	생명이 가장 적은 적군 무장에게 240%의 공격 피해를 입힙니다.	11	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.4		8	3			sound/skilleffect/dao/dao1.wav					
+103113	황•편타귀신	생명이 가장 적은 적군 무장에게 260%의 공격 피해를 입힙니다.	10	Ani_duodaoguang		23	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	2.6		10	3			sound/skilleffect/dao/dao1.wav					
+300114	괴뇌와와만	아군 병사의 공격과 마법이 60% 증가하며， 6초간 받는 피해를 60% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	2	1		0.6		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+301114	귀•괴뇌와와만	아군 병사의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 60% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	1		0.65		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+302114	성•괴뇌와와만	아군 병사의 공격과 마법이 70% 증가하며， 10초간 받는 피해를 60% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1		0.7		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+303114	황•괴뇌와와만	아군 병사의 공격과 마법이 80% 증가하며， 12초간 받는 피해를 60% 감소시킵니다.	20	wujian_plist		8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	2	1		0.8		0	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+310114	괴뇌와와만	아군 병사의 공격과 마법이 60% 증가하며， 6초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	2	4		0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+311114	귀•괴뇌와와만	아군 병사의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	2	4		0.65				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+312114	성•괴뇌와와만	아군 병사의 공격과 마법이 70% 증가하며， 10초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4		0.7				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+313114	황•괴뇌와와만	아군 병사의 공격과 마법이 80% 증가하며， 12초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	2	4		0.8				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+320114	괴뇌와와만	아군 병사의 공격과 마법이 60% 증가하며， 6초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4		6	0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+321114	귀•괴뇌와와만	아군 병사의 공격과 마법이 65% 증가하며， 8초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+322114	성•괴뇌와와만	아군 병사의 공격과 마법이 70% 증가하며， 10초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+323114	황•괴뇌와와만	아군 병사의 공격과 마법이 80% 증가하며， 12초간 받는 피해를 60% 감소시킵니다.	20			8	2	1	0	0	0	0	0	0	0	1	0	0	1	720	720	4		6	0.6				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+200115	천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 55%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+201115	귀•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 60%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+202115	성•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 65%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+203115	황•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 70%만큼 피해를 입힙니다.	20			9	1	1								1			1			1	9		-0.2						sound/skilleffect/huo/huo1.wav					
+210115	천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 50%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.55	0	0	8			sound/skilleffect/huo/huo1.wav					
+211115	귀•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 55%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.6	0	0	8			sound/skilleffect/huo/huo1.wav					
+212115	성•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 60%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.65	0	0	8			sound/skilleffect/huo/huo1.wav					
+213115	황•천화락만	현재 생명을 20% 소비하여，적 무장에게 자신이 잃은 전체 생명의 65%만큼 피해를 입힙니다.	20	xiahuo_plist		40	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	2	1	0.7	0	0	8			sound/skilleffect/huo/huo1.wav					
+400116	치운탁일만	아군 전체의 생명이 마법수치의 200%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	2	0	5	0			sound/skilleffect/huixue/huixue.wav					
+401116	귀•치운탁일만	아군 전체의 생명이 마법수치의 210%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	2.1	0	7	0			sound/skilleffect/huixue/huixue.wav					
+402116	성•치운탁일만	아군 전체의 생명이 마법수치의 220%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	2.2	0	9	0			sound/skilleffect/huixue/huixue.wav					
+403116	황•치운탁일만	아군 전체의 생명이 마법수치의 230%만큼 즉시 회복됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	0	0	7	0	0	2.3	0	11	0			sound/skilleffect/huixue/huixue.wav					
+100117	금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 210% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	2.1		6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101117	귀•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 220% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	2.2		8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102117	성•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 230% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	2.3		10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103117	황•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 240% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20	gaoji_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	2.4		12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+110117	금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 210% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		6	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+111117	귀•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 220% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		8	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+112117	성•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 230% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		10	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+113117	황•금사요일만	무장의 현재 생명을 20% 소비하여 공격력을 240% 증가시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	9	0	-0.2		12	0		1	sound/skilleffect/zhenyi/zengyi.wav					
+300118	호무매혹만	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 50%의 마법 피해를 입힙니다.	18	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.5	0	7	2			sound/skilleffect/lei/lei1.wav					
+301118	귀•호무매혹만	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 55%의 마법 피해를 입힙니다.	17	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.55	0	9	2			sound/skilleffect/lei/lei1.wav					
+302118	성•호무매혹만	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 60%의 마법 피해를 입힙니다.	16	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.6	0	11	2			sound/skilleffect/lei/lei1.wav					
+303118	황•호무매혹만	모든 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격시 65%의 마법 피해를 입힙니다.	15	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6	0	0	0.65	0	13	2			sound/skilleffect/lei/lei1.wav					
+100119	인정천하만	촉나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+101119	귀•인정천하만	촉나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+102119	성•인정천하만	촉나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+103119	황•인정천하만	촉나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12	huangguang_plist		36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+110119	인정천하만	촉나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+111119	귀•인정천하만	촉나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+112119	성•인정천하만	촉나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+113119	황•인정천하만	촉나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+120119	인정천하만	촉나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+121119	귀•인정천하만	촉나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+122119	성•인정천하만	촉나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+123119	황•인정천하만	촉나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			36	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+300120	기문둔갑만	적군 전체의 공격과 마법을 70% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.7	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+301120	귀•기문둔갑만	적군 전체의 공격과 마법을 75% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.75	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+302120	성•기문둔갑만	적군 전체의 공격과 마법을 80% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.8	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+303120	황•기문둔갑만	적군 전체의 공격과 마법을 85% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20	bagua_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	-0.85	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+310120	기문둔갑만	적군 전체의 공격과 마법을 70% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.7	0	7	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+311120	귀•기문둔갑만	적군 전체의 공격과 마법을 75% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.75	0	9	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+312120	성•기문둔갑만	적군 전체의 공격과 마법을 80% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.8	0	11	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+313120	황•기문둔갑만	적군 전체의 공격과 마법을 85% 하락시키며， 지속시간은 지력에 따라 달라집니다.	20			4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	2	4	0	-0.85	0	13	0	3	2,9	sound/skilleffect/jianyi/jianyi.wav					
+100121	귀옥환신만	무장의 공격이 110% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.1		6	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+101121	귀•귀옥환신만	무장의 공격이 120% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.2		8	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+102121	성•귀옥환신만	무장의 공격이 130% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.3		10	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+103121	황•귀옥환신만	무장의 공격이 140% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.4		12	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+110121	귀옥환신만	무장의 공격이 110% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		6	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+111121	귀•귀옥환신만	무장의 공격이 120% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		8	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+112121	성•귀옥환신만	무장의 공격이 130% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		10	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+113121	황•귀옥환신만	무장의 공격이 140% 증가하며， 받는 피해를 60% 감소 시킵니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4		6	0.6		12	0	2	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+100122	전신축복만	무장이 입는 피해가 99% 감소하며，10초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.99		6		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+101122	귀•전신축복만	무장이 입는 피해가 99% 감소하며，11초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	660	660	4		6	0.99		8		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+102122	성•전신축복만	무장이 입는 피해가 99% 감소하며，12초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	720	720	4		6	0.99		10		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+103122	황•전신축복만	무장이 입는 피해가 99% 감소하며，13초간 지속됩니다.	20	Ani_purpleLight		9	1	1	0	0	0	0	0	0	0	1	0	0	1	780	780	4		6	0.99		12		1	8	sound/skilleffect/zhenyi/zengyi.wav					
+210123	설무만천만	적군 전체에게 100%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	18	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	4	0	1	3	sound/skilleffect/bing/bin1.wav					
+211123	귀•설무만천만	적군 전체에게 105%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	17	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	5	0	1	3	sound/skilleffect/bing/bin1.wav					
+212123	성•설무만천만	적군 전체에게 110%의 마법 피해를 입히며，3초간 결빙 시킵니다.	16	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	6	0	1	3	sound/skilleffect/bing/bin1.wav					
+213123	황•설무만천만	적군 전체에게 115%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	15	Ani_ice		4	2	2			0	0		0	0	1	0	0	1	180	180	5	0	0	0	0	7	0	1	3	sound/skilleffect/bing/bin1.wav					
+200123	설무만천만	적군 전체에게 100%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	18			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1	0	4	2		3	sound/skilleffect/bing/bin1.wav					
+201123	귀•설무만천만	적군 전체에게 105%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	17			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.05	0	5	2		3	sound/skilleffect/bing/bin1.wav					
+202123	성•설무만천만	적군 전체에게 110%의 마법 피해를 입히며，3초간 결빙 시킵니다.	16			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.1	0	6	2		3	sound/skilleffect/bing/bin1.wav					
+203123	황•설무만천만	적군 전체에게 115%의 마법 피해를 입히며， 3초간 결빙 시킵니다.	15			4	2	2			0	0		0	0	1	0	0	1	0		6	0	0	1.15	0	7	2		3	sound/skilleffect/bing/bin1.wav					
+400124	군심대진만	아군 전체가 초당 마법수치의 49%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.49	0	5	0	1		sound/skilleffect/huixue/huixue.wav					
+401124	귀•군심대진만	아군 전체가 초당 마법수치의 52%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.52	0	7	0	1		sound/skilleffect/huixue/huixue.wav					
+402124	성•군심대진만	아군 전체가 초당 마법수치의 55%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.55	0	9	0	1		sound/skilleffect/huixue/huixue.wav					
+403124	황•군심대진만	아군 전체가 초당 마법수치의 58%만큼 생명을 회복하며， 4초 간 지속됩니다.	20	Ani_greenLight		4	2	1	0	0	0	0	0	0	0	1	0	0	1	60	240	7	0	0	0.58	0	11	0	1		sound/skilleffect/huixue/huixue.wav					
+200125	연옥화해만	적군 전체에게 105%의 마법 피해를 입힙니다.	18	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.05	0	0	2			sound/skilleffect/huo/huo1.wav					
+201125	귀•연옥화해만	적군 전체에게 110%의 마법 피해를 입힙니다.	17	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.1	0	0	2			sound/skilleffect/huo/huo1.wav					
+202125	성•연옥화해만	적군 전체에게 115%의 마법 피해를 입힙니다.	16	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.15	0	0	2			sound/skilleffect/huo/huo1.wav					
+203125	황•연옥화해만	적군 전체에게 120%의 마법 피해를 입힙니다.	15	dahuo_plist		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.2	0	0	2			sound/skilleffect/huo/huo1.wav					
+100126	귀곡랑호만	무력이 가장 낮은 적군 무장에게 390% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	13	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.9		6	1			sound/skilleffect/dao/dao1.wav					
+101126	귀•귀곡랑호만	무력이 가장 낮은 적군 무장에게 410% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	12	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	4.1		8	1			sound/skilleffect/dao/dao1.wav					
+102126	성•귀곡랑호만	무력이 가장 낮은 적군 무장에게 430% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	11	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	4.3		8	1			sound/skilleffect/dao/dao1.wav					
+103126	황•귀곡랑호만	무력이 가장 낮은 적군 무장에게 450% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	10	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	4.5		10	1			sound/skilleffect/dao/dao1.wav					
+110126	귀곡랑호만	무력이 가장 낮은 적군 무장에게 390% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	13	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.7		6		1	9	sound/skilleffect/dao/dao1.wav					
+111126	귀•귀곡랑호만	무력이 가장 낮은 적군 무장에게 410% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	12	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.7		8		1	9	sound/skilleffect/dao/dao1.wav					
+112126	성•귀곡랑호만	무력이 가장 낮은 적군 무장에게 430% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	11	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.7		8		1	9	sound/skilleffect/dao/dao1.wav					
+113126	황•귀곡랑호만	무력이 가장 낮은 적군 무장에게 450% 기본 피해를 입히며， 3초간 마법공격을 70% 하락 시킵니다.	10	Ani_duodaoguang		29	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	4	0	-0.7		10		1	9	sound/skilleffect/dao/dao1.wav					
+100127	음혈열인만	무력이 가장 높은 적군 무장에게 310%의 기본 피해와 무장간 무력차이의 300%만큼 추가 피해를 입히며， 3초간 받는 피해를 90% 감소 시킵니다.	13	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.1		6	4			sound/skilleffect/dao/dao1.wav					
+101127	귀•음혈열인만	무력이 가장 높은 적군 무장에게 330%의 기본 피해와 무장간 무력차이의 320%만큼 추가 피해를 입히며， 4초간 받는 피해를 90% 감소 시킵니다.	12	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.3		8	4			sound/skilleffect/dao/dao1.wav					
+102127	성•음혈열인만	무력이 가장 높은 적군 무장에게 350%의 기본 피해와 무장간 무력차이의 340%만큼 추가 피해를 입히며， 5초간 받는 피해를 90% 감소 시킵니다.	11	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.5		8	4			sound/skilleffect/dao/dao1.wav					
+103127	황•음혈열인만	무력이 가장 높은 적군 무장에게 370%의 기본 피해와 무장간 무력차이의 360%만큼 추가 피해를 입히며， 6초간 받는 피해를 90% 감소 시킵니다.	10	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	3.7		10	4			sound/skilleffect/dao/dao1.wav					
+110127	음혈열인만	무력이 가장 높은 적군 무장에게 310%의 기본 피해와 무장간 무력차이의 300%만큼 추가 피해를 입히며， 3초간 받는 피해를 90% 감소 시킵니다.	13			9	1	1	0	0	0	0	0	0	0	1	0	0	1	180	180	4	0	6	0.9		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+111127	귀•음혈열인만	무력이 가장 높은 적군 무장에게 330%의 기본 피해와 무장간 무력차이의 320%만큼 추가 피해를 입히며， 4초간 받는 피해를 90% 감소 시킵니다.	12			9	1	1	0	0	0	0	0	0	0	1	0	0	1	240	240	4	0	6	0.9		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+112127	성•음혈열인만	무력이 가장 높은 적군 무장에게 350%의 기본 피해와 무장간 무력차이의 340%만큼 추가 피해를 입히며， 5초간 받는 피해를 90% 감소 시킵니다.	11			9	1	1	0	0	0	0	0	0	0	1	0	0	1	300	300	4	0	6	0.9		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+113127	황•음혈열인만	무력이 가장 높은 적군 무장에게 370%의 기본 피해와 무장간 무력차이의 360%만큼 추가 피해를 입히며， 6초간 받는 피해를 90% 감소 시킵니다.	10			9	1	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4	0	6	0.9		0	0	1	8	sound/skilleffect/dao/dao1.wav					
+200128	천강전기만	위나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+201128	귀•천강전기만	위나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+202128	성•천강전기만	위나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+203128	황•천강전기만	위나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12	huangguang_plist		38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+210128	천강전기만	위나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+211128	귀•천강전기만	위나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+212128	성•천강전기만	위나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+213128	황•천강전기만	위나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+220128	천강전기만	위나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+221128	귀•천강전기만	위나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+222128	성•천강전기만	위나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+223128	황•천강전기만	위나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			38	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+100129	무쌍룡담만	무장의 공격이 110% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.1	0	6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+101129	귀•무쌍룡담만	무장의 공격이 120% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.2	0	8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+102129	성•무쌍룡담만	무장의 공격이 130% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.3	0	10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+103129	황•무쌍룡담만	무장의 공격이 140% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	2	1	0	1.4	0	12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+110129	무쌍룡담만	무장의 공격이 110% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	6	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+111129	귀•무쌍룡담만	무장의 공격이 120% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	8	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+112129	성•무쌍룡담만	무장의 공격이 130% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	10	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+113129	황•무쌍룡담만	무장의 공격이 140% 증가하고 적에게 입힌 피해의 80%를 생명으로 흡수합니다. 지속시간은 무력에 따라 달라집니다.	20			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	4	0	1	0.8	0	12	0	2	1	sound/skilleffect/zhenyi/zengyi.wav					
+100130	천하무쌍만	적군 전체에게 125%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	18	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.25		0	3			sound/skilleffect/dao/dao1.wav					
+101130	귀•천하무쌍만	적군 전체에게 130%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	17	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.3		0	3			sound/skilleffect/dao/dao1.wav					
+102130	성•천하무쌍만	적군 전체에게 135%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	16	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.35		0	3			sound/skilleffect/dao/dao1.wav					
+103130	황•천하무쌍만	적군 전체에게 140%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	15	Ani_daoguang		4	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	6	0	0	1.4		0	3			sound/skilleffect/dao/dao1.wav					
+110130	천하무쌍만	적군 전체에게 125%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	18			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.2					1						
+111130	귀•천하무쌍만	적군 전체에게 130%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	17			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.2					1						
+112130	성•천하무쌍만	적군 전체에게 135%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	16			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.2					1						
+113130	황•천하무쌍만	적군 전체에게 140%의 공격 피해를 입히며， 스킬 시전 후 전투 종료까지 무장 공격력을20% 상승 시킵니다.	15			9	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1		0.2					1						
+300131	귀련광마만	오나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+301131	귀•귀련광마만	오나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+302131	성•귀련광마만	오나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+303131	황•귀련광마만	오나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12	huangguang_plist		37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	1	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+310131	귀련광마만	오나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.7		6	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+311131	귀•귀련광마만	오나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.75		8	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+312131	성•귀련광마만	오나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.8		10	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+313131	황•귀련광마만	오나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	2	4	0	0.85		12	0	1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+320131	귀련광마만	오나라 무장의 공격과 마법이 70% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	15			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+321131	귀•귀련광마만	오나라 무장의 공격과 마법이 75% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	14			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+322131	성•귀련광마만	오나라 무장의 공격과 마법이 80% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	13			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+323131	황•귀련광마만	오나라 무장의 공격과 마법이 85% 증가하며，10초간 받는 피해를 30% 감소 시킵니다.	12			37	2	1	0	0	0	0	0	0	0	1	0	0	1	600	600	4		6	0.3				1	1,11,8	sound/skilleffect/zhenyi/zengyi.wav					
+200132	뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 100%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	18	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1			2			sound/skilleffect/lei/lei1.wav					
+201132	귀•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 105%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	17	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.05			2			sound/skilleffect/lei/lei1.wav					
+202132	성•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 110%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	16	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.1			2			sound/skilleffect/lei/lei1.wav					
+203132	황•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 115%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	15	Ani_dian		40	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.15			2			sound/skilleffect/lei/lei1.wav					
+210132	뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 100%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	18			40	2	2	0	0	0	0	0	0	0	1	0	0	1			6						9			sound/skilleffect/lei/lei1.wav	0.8	0.3			
+211132	귀•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 105%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	17			40	2	2	0	0	0	0	0	0	0	1	0	0	1			6						9			sound/skilleffect/lei/lei1.wav	0.8	0.3			
+212132	성•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 110%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	16			40	2	2	0	0	0	0	0	0	0	1	0	0	1			6						9			sound/skilleffect/lei/lei1.wav	0.8	0.3			
+213132	황•뇌정지력만	모든 적군 무장에게 1회의 낙뢰 공격으로 115%의 마법피해를 입힙니다. 적 무장의 마법 수치가 자신보다 80% 이하인 경우， 30%의 추가 데미지를 받게 됩니다.	15			40	2	2	0	0	0	0	0	0	0	1	0	0	1			6						9			sound/skilleffect/lei/lei1.wav	0.8	0.3			
+100133	수라마참만	무력이 가장 높은 적군 무장에게 60%의 기본 피해와 적 무장의 공격력의 1.5배의 추가 피해를 입히며， 적이 받은 피해의 70%만큼 자기 생명력을 회복시킵니다.	13	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1			6						11			sound/skilleffect/dao/dao1.wav	0.6	1.5	0.7		
+101133	귀•수라마참만	무력이 가장 높은 적군 무장에게 80%의 기본 피해와 적 무장의 공격력의 1.5배의 추가 피해를 입히며， 적이 받은 피해의 80%만큼 자기 생명력을 회복시킵니다.	12	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1			6						11			sound/skilleffect/dao/dao1.wav	0.8	1.5	0.8		
+102133	성•수라마참만	무력이 가장 높은 적군 무장에게 100%의 기본 피해와 적 무장의 공격력의 1.5배의 추가 피해를 입히며， 적이 받은 피해의 90%만큼 자기 생명력을 회복시킵니다.	11	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1			6						11			sound/skilleffect/dao/dao1.wav	1	1.5	0.9		
+103133	황•수라마참만	무력이 가장 높은 적군 무장에게 120%의 기본 피해와 적 무장의 공격력의 1.5배의 추가 피해를 입히며， 적이 받은 피해의 100%만큼 자기 생명력을 회복시킵니다.	10	Ani_Lightning		19	2	2	0	0	0	0	0	0	0	1	0	0	1			6						11			sound/skilleffect/dao/dao1.wav	1.2	1.5	1		
+300134	신가지법만	아군 전체의 공격력과 마법을 70% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	1		0.7				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+301134	귀•신가지법만	아군 전체의 공격력과 마법을 75% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	1		0.75				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+302134	성•신가지법만	아군 전체의 공격력과 마법을 80% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	1		0.8				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+303134	황•신가지법만	아군 전체의 공격력과 마법을 85% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	1		0.85				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+310134	신가지법만	아군 전체의 공격력과 마법을 70% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	4		0.7				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+311134	귀•신가지법만	아군 전체의 공격력과 마법을 75% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	4		0.75				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+312134	성•신가지법만	아군 전체의 공격력과 마법을 80% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	4		0.8				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+313134	황•신가지법만	아군 전체의 공격력과 마법을 85% 상승 시키며， 지속시간은 지력에 따라 달라집니다.	20	wujian_plist		4	2	1	0	0	0	0	0	0	0	1	0	0	1			2	4		0.85				3	1,11	sound/skilleffect/zhenyi/zengyi.wav					
+100135	부동여산만	무력이 가장 높은 적군 무장의 80%의 공격력을 내가 사용하며， 6초간 피해를 60% 감소시킵니다.	20			19	2	2	0	0	0	0	0	0	0	1	0	0	1	360	360	2	10		0.8				1		sound/skilleffect/zhenyi/zengyi.wav					
+101135	귀•부동여산만	무력이 가장 높은 적군 무장의 90%의 공격력을 내가 사용하며， 7초간 피해를 60% 감소시킵니다.	19			19	2	2	0	0	0	0	0	0	0	1	0	0	1	420	420	2	10		0.9				1		sound/skilleffect/zhenyi/zengyi.wav					
+102135	성•부동여산만	무력이 가장 높은 적군 무장의 100%의 공격력을 내가 사용하며， 8초간 피해를 60% 감소시킵니다.	18			19	2	2	0	0	0	0	0	0	0	1	0	0	1	480	480	2	10		1				1		sound/skilleffect/zhenyi/zengyi.wav					
+103135	황•부동여산만	무력이 가장 높은 적군 무장의 110%의 공격력을 내가 사용하며， 9초간 피해를 60% 감소시킵니다.	17			19	2	2	0	0	0	0	0	0	0	1	0	0	1	540	540	2	10		1.1				1		sound/skilleffect/zhenyi/zengyi.wav					
+110135	부동여산만	무력이 가장 높은 적군 무장의 80%의 공격력을 내가 사용하며， 6초간 피해를 60% 감소시킵니다.	20	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4		6	0.6				1	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+111135	귀•부동여산만	무력이 가장 높은 적군 무장의 90%의 공격력을 내가 사용하며， 7초간 피해를 60% 감소시킵니다.	19	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	420	420	4		6	0.6				1	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+112135	성•부동여산만	무력이 가장 높은 적군 무장의 100%의 공격력을 내가 사용하며， 8초간 피해를 60% 감소시킵니다.	18	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4		6	0.6				1	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+113135	황•부동여산만	무력이 가장 높은 적군 무장의 110%의 공격력을 내가 사용하며， 9초간 피해를 60% 감소시킵니다.	17	huangguang_plist		9	1	1	0	0	0	0	0	0	0	1	0	0	1	540	540	4		6	0.6				1	1,8	sound/skilleffect/zhenyi/zengyi.wav					
+300136	기혈대법만	아군 각 무장이 적에게 입힌 기본 공격 상해수치의 40%만큼을 각 무장의 생명력으로 회복 시키며， 6초간 유지 됩니다	18	xixue_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	360	360	4	0	1	0.4			0	1		sound/skilleffect/zhenyi/zengyi.wav					
+301136	귀•기혈대법만	아군 각 무장이 적에게 입힌 기본 공격 상해수치의 45%만큼을 각 무장의 생명력으로 회복 시키며， 7초간 유지 됩니다	17	xixue_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	420	420	4	0	1	0.45			0	1		sound/skilleffect/zhenyi/zengyi.wav					
+302136	성•기혈대법만	아군 각 무장이 적에게 입힌 기본 공격 상해수치의 50%만큼을 각 무장의 생명력으로 회복 시키며， 8초간 유지 됩니다	16	xixue_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	480	480	4	0	1	0.5			0	1		sound/skilleffect/zhenyi/zengyi.wav					
+303136	황•기혈대법만	아군 각 무장이 적에게 입힌 기본 공격 상해수치의 55%만큼을 각 무장의 생명력으로 회복 시키며， 9초간 유지 됩니다	15	xixue_plist		40	2	1	0	0	0	0	0	0	0	1	0	0	1	540	540	4	0	1	0.55			0	1		sound/skilleffect/zhenyi/zengyi.wav					
+200137	신귀기모만	모든 적에게 1회의 낙뢰 공격으로 100%의 마법피해를 입히며， 3초간 방어를 50% 감소 시킵니다.	18	Ani_dian		4	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1			2			sound/skilleffect/lei/lei1.wav					
+201137	귀•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 105%의 마법피해를 입히며， 4초간 방어를 50% 감소 시킵니다.	17	Ani_dian		4	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.05			2			sound/skilleffect/lei/lei1.wav					
+202137	성•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 110%의 마법피해를 입히며， 5초간 방어를 50% 감소 시킵니다.	16	Ani_dian		4	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.1			2			sound/skilleffect/lei/lei1.wav					
+203137	황•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 115%의 마법피해를 입히며， 6초간 방어를 50% 감소 시킵니다.	15	Ani_dian		4	2	2	0	0	0	0	0	0	0	1	0	0	1			6			1.15			2			sound/skilleffect/lei/lei1.wav					
+210137	신귀기모만	모든 적에게 1회의 낙뢰 공격으로 100%의 마법피해를 입히며， 3초간 방어를 50% 감소 시킵니다.	18			4	2	2	0	0	0	0	0	0	0	1	0	0	1	180	180	2	5		-0.5				1	10	sound/skilleffect/lei/lei1.wav					
+211137	귀•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 105%의 마법피해를 입히며， 4초간 방어를 50% 감소 시킵니다.	17			4	2	2	0	0	0	0	0	0	0	1	0	0	1	240	240	2	5		-0.5				1	10	sound/skilleffect/lei/lei1.wav					
+212137	성•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 110%의 마법피해를 입히며， 5초간 방어를 50% 감소 시킵니다.	16			4	2	2	0	0	0	0	0	0	0	1	0	0	1	300	300	2	5		-0.5				1	10	sound/skilleffect/lei/lei1.wav					
+213137	황•신귀기모만	모든 적에게 1회의 낙뢰 공격으로 115%의 마법피해를 입히며， 6초간 방어를 50% 감소 시킵니다.	15			4	2	2	0	0	0	0	0	0	0	1	0	0	1	360	360	2	5		-0.5				1	10	sound/skilleffect/lei/lei1.wav					
+200138	법술극성만	지력이 가장 높은 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격 시， 50%의 마법 피해와 적군 무장 마법 수치의 50%만큼의 추가 피해를 입힙니다.	15	Ani_dian		20	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6						12	1		sound/skilleffect/lei/lei1.wav	0.5	0.5			
+201138	귀•법술극성만	지력이 가장 높은 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격 시， 60%의 마법 피해와 적군 무장 마법 수치의 60%만큼의 추가 피해를 입힙니다.	14	Ani_dian		20	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6						12	1		sound/skilleffect/lei/lei1.wav	0.6	0.6			
+202138	성•법술극성만	지력이 가장 높은 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격 시， 70%의 마법 피해와 적군 무장 마법 수치의 70%만큼의 추가 피해를 입힙니다.	13	Ani_dian		20	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6						12	1		sound/skilleffect/lei/lei1.wav	0.7	0.7			
+203138	황•법술극성만	지력이 가장 높은 적군 무장에게 3회의 낙뢰 공격을 가하며， 매 공격 시， 80%의 마법 피해와 적군 무장 마법 수치의 80%만큼의 추가 피해를 입힙니다.	12	Ani_dian		20	2	2	0	0	0	0	0	0	0	1	0	0	1	60	180	6						12	1		sound/skilleffect/lei/lei1.wav	0.8	0.8			
+400139	회천핍술만	아군 모든 무장에게 매 초마다 마법 수치의 35%만큼의 생명력을 회복 시킵니다. 6초간 지속됩니다.	20	Ani_greenLight		40	2	1	0	0	0	0	0	0	0	1	0	0	1	60	360	7	0	0	0.35				1		sound/skilleffect/huixue/huixue.wav					
+401139	귀•회천핍술만	아군 모든 무장에게 매 초마다 마법 수치의 40%만큼의 생명력을 회복 시킵니다. 6초간 지속됩니다.	19	Ani_greenLight		40	2	1	0	0	0	0	0	0	0	1	0	0	1	60	360	7	0	0	0.4				1		sound/skilleffect/huixue/huixue.wav					
+402139	성•회천핍술만	아군 모든 무장에게 매 초마다 마법 수치의 45%만큼의 생명력을 회복 시킵니다. 6초간 지속됩니다.	18	Ani_greenLight		40	2	1	0	0	0	0	0	0	0	1	0	0	1	60	360	7	0	0	0.45				1		sound/skilleffect/huixue/huixue.wav					
+403139	황•회천핍술만	아군 모든 무장에게 매 초마다 마법 수치의 50%만큼의 생명력을 회복 시킵니다. 6초간 지속됩니다.	17	Ani_greenLight		40	2	1	0	0	0	0	0	0	0	1	0	0	1	60	360	7	0	0	0.5				1		sound/skilleffect/huixue/huixue.wav					

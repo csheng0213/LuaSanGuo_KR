@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/XueZhanAttrPopUI/shengyu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{524,0},{34,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{34,19}</string>
+			</dict>
+			<key>commonUI/res/tyj/XueZhanAttrPopUI/shuxjiac.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{524,420}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{524,427}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>XueZhanAttrPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>XueZhanAttrPopUI.png</string>
+			<key>size</key>
+			<string>{558,420}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>558</integer>
+			<key>height</key>
+			<integer>420</integer>
+		</dict>
+	</dict>
+</plist>

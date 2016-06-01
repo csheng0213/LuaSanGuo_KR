@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/HelpPopUI/faq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1018,0},{168,155}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/faq_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1186,0},{168,155}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/faq_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1354,0},{168,155}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/gonglue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1522,0},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/gonglue_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1690,0},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/gonglue_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1858,0},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/luntan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1522,153},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/luntan_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1690,153},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/luntan_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1858,153},{168,153}}</string>
+				<key>offset</key>
+				<string>{-1,-2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/tiwen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{514,0},{168,160}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/tiwen_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{682,0},{168,160}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/tiwen_down.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{850,0},{168,160}}</string>
+				<key>offset</key>
+				<string>{-1,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{178,162}</string>
+			</dict>
+			<key>tyj/ui_res/HelpPopUI/bangzhu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{514,459}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{514,459}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HelpPopUI.png</string>
+			<key>realTextureFileName</key>
+			<string>HelpPopUI.png</string>
+			<key>size</key>
+			<string>{2026,459}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2026</integer>
+			<key>height</key>
+			<integer>459</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/FirstPayRewardPopUI/bj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{725,483}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{725,483}</string>
+			</dict>
+			<key>commonUI/res/tyj/FirstPayRewardPopUI/scje.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{725,0},{205,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{205,37}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>firstPayBg.png</string>
+			<key>realTextureFileName</key>
+			<string>firstPayBg.png</string>
+			<key>size</key>
+			<string>{930,483}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>930</integer>
+			<key>height</key>
+			<integer>483</integer>
+		</dict>
+	</dict>
+</plist>

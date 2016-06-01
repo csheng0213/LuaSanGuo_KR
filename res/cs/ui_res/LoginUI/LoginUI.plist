@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>cs/ui_res/LoginUI/login_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1509,5},{70,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{70,8}</string>
+			</dict>
+			<key>cs/ui_res/LoginUI/main_boxbg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1990,1},{40,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{40,29}</string>
+			</dict>
+			<key>cs/ui_res/LoginUI/login_click.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1129,1},{378,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{378,64}</string>
+			</dict>
+			<key>cs/ui_res/LoginUI/fengexian1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1509,1},{479,2}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{479,2}</string>
+			</dict>
+			<key>cs/ui_res/LoginUI/box_login.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{562,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{562,124}</string>
+			</dict>
+			<key>cs/ui_res/LoginUI/box2_login.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{565,1},{562,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{562,92}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LoginUI.png</string>
+			<key>realTextureFileName</key>
+			<string>LoginUI.png</string>
+			<key>size</key>
+			<string>{2031,126}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2031</integer>
+			<key>height</key>
+			<integer>126</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>commonUI/res/tyj/EmbattleUI/buz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,34},{73,43}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{76,45}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/bzpj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,1},{104,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{104,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/chejun.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,79},{55,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/miabn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{220,323}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{220,323}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/yjbz.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{172,326},{105,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,31}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/baoc.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{223,112},{55,31}}</string>
+				<key>offset</key>
+				<string>{0,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{60,32}</string>
+			</dict>
+			<key>commonUI/res/tyj/EmbattleUI/defent.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,326},{169,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{169,52}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>EmbattleUI_Text.png</string>
+			<key>realTextureFileName</key>
+			<string>EmbattleUI_Text.png</string>
+			<key>size</key>
+			<string>{328,379}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>328</integer>
+			<key>height</key>
+			<integer>379</integer>
+		</dict>
+	</dict>
+</plist>

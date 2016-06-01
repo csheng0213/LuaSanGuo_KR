@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>tyj/ui_res/PropUI/backpack_choosed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{539,1},{120,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{120,120}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/property_soul.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{661,1},{110,110}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,110}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/chushou_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{536,375}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{536,375}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/add10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{915,1},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/add10_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{773,62},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/miu10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{661,113},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/miu10_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{539,123},{70,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{70,73}</string>
+			</dict>
+			<key>tyj/ui_res/PropUI/bg1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{773,1},{140,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{140,59}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PropUI.png</string>
+			<key>realTextureFileName</key>
+			<string>PropUI.png</string>
+			<key>size</key>
+			<string>{989,377}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>989</integer>
+			<key>height</key>
+			<integer>377</integer>
+		</dict>
+	</dict>
+</plist>
